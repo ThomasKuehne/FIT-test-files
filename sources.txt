@@ -65135,6 +65135,8 @@ https://github.com/stadelmanma/fitparse-rs/raw/refs/heads/master/fitparser/tests
 https://github.com/stadelmanma/fitparse-rs/raw/refs/heads/master/fitparser/tests/fixtures/hrv-activity.fit
 https://github.com/stadelmanma/fitparse-rs/raw/refs/heads/master/fitparser/tests/fixtures/sample_mulitple_header.fit
 https://github.com/stefanjenkner/fdf-console-recorder/raw/refs/heads/main/samples/1670790032608_watch.fit
+https://github.com/subsurface/subsurface/raw/refs/heads/master/dives/garmin_2023-08-17-08-51-59.fit
+https://github.com/subsurface/subsurface/raw/refs/heads/master/dives/garmin_2023-10-21-12-13-38.fit
 https://github.com/surflog-tech/fit2geo/raw/refs/heads/main/assets/6829812928_ACTIVITY.fit
 https://github.com/surflog-tech/fit2geo/raw/refs/heads/main/assets/6975723491_ACTIVITY.fit
 https://github.com/surflog-tech/fit2geo/raw/refs/heads/main/assets/7052582268_ACTIVITY.fit
@@ -65212,3 +65214,4 @@ https://www.8020endurance.com/wp-content/library/run/RSI11.FIT
 https://www.8020endurance.com/wp-content/library/run/RSP21.FIT
 https://www.8020endurance.com/wp-content/library/run/RT19.FIT
 https://www.8020endurance.com/wp-content/library/run/RTa1.FIT
+https://www.divinglog.com/phpbb/viewtopic.php?t=3579
