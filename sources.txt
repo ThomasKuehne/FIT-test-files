@@ -340,6 +340,7 @@ https://github.com/MaksVasilev/fit2gpx/raw/refs/heads/master/test/monitor/684841
 https://github.com/MaksVasilev/fit2gpx/raw/refs/heads/master/test/monitor/68484168401.fit
 https://github.com/MaksVasilev/fit2gpx/raw/refs/heads/master/test/monitor/68520539240.fit
 https://github.com/MaksVasilev/fit2gpx/raw/refs/heads/master/test/monitor/68520562673.fit
+https://github.com/McMaster-Baja-Racing/Strava-Parser/raw/refs/heads/main/data/input/input.fit
 https://github.com/Nick2bad4u/FitFileViewer/raw/refs/heads/main/fit-test-files/17326739450_ACTIVITY.fit
 https://github.com/Nick2bad4u/FitFileViewer/raw/refs/heads/main/fit-test-files/18857497810_ACTIVITY.fit
 https://github.com/Nick2bad4u/FitFileViewer/raw/refs/heads/main/fit-test-files/Virtual_Zwift_Climb_Portal_Cauberg_at_100_Elevation_in_Watopia_12_miles.fit
@@ -64311,6 +64312,8 @@ https://github.com/glucawork/fitloader/raw/refs/heads/main/fit_files/_ANXUR_.fit
 https://github.com/goldlabel-apps/Example-PWA/raw/refs/heads/master/public/fit/9631265028_ACTIVITY.fit
 https://github.com/grint0uc/txt2fit/raw/refs/heads/main/examples/cadence_pyramid.fit
 https://github.com/grint0uc/txt2fit/raw/refs/heads/main/examples/sweetspot_3x10.fit
+https://github.com/harborsiem/ELEMNTViewer/raw/refs/heads/master/Example/2018-06-19-081218-ELEMNT%20BOLT%20FCEE-5-0.fit
+https://github.com/hbuhrmann/readcycledata/raw/refs/heads/master/Datafiles/Raw/garminoriginalfilewithstagespowermeter.fit
 https://github.com/jarkko/fit-analyzer/raw/refs/heads/main/tests/fixtures/20474406937_ACTIVITY.fit
 https://github.com/jarkko/fit-analyzer/raw/refs/heads/main/tests/fixtures/20544585388_ACTIVITY.fit
 https://github.com/jarkko/fit-analyzer/raw/refs/heads/main/tests/fixtures/20548472357_ACTIVITY.fit
@@ -65091,6 +65094,13 @@ https://github.com/mwheinz/ebike-stats/raw/refs/heads/main/sample_data/Diverge.f
 https://github.com/mwheinz/ebike-stats/raw/refs/heads/main/sample_data/Karoo-Morning_Ride-2025-07-14-0853.fit
 https://github.com/mwheinz/ebike-stats/raw/refs/heads/main/sample_data/Karoo-Morning_Ride-2025-08-02-0936.fit
 https://github.com/mwheinz/ebike-stats/raw/refs/heads/main/sample_data/Secteur.fit
+https://github.com/mytourbook/mytourbook/issues/1135
+https://github.com/mytourbook/mytourbook/issues/1482
+https://github.com/mytourbook/mytourbook/issues/1485
+https://github.com/mytourbook/mytourbook/issues/1517
+https://github.com/mytourbook/mytourbook/issues/1524
+https://github.com/mytourbook/mytourbook/issues/1580
+https://github.com/mytourbook/mytourbook/issues/1581
 https://github.com/nullpointer0x00/TrackConverter/raw/refs/heads/master/src/test/resources/test.FIT
 https://github.com/pablo-albaladejo/kaiord/raw/refs/heads/main/test-fixtures/fit/WorkoutCustomTargetValues.fit
 https://github.com/pablo-albaladejo/kaiord/raw/refs/heads/main/test-fixtures/fit/WorkoutIndividualSteps.fit
@@ -65337,6 +65347,7 @@ https://github.com/xplwowi/fit2subs/raw/refs/heads/master/fit-files/2018-08-14-0
 https://info.aerosensor.tech/docs/start/downloads/demo-fit-files/
 https://nksports.com/faqs/question/view/id/161/
 https://opensource.quarq.com/fit_json/fit_json-0.1.tar.gz
+https://sourceforge.net/p/mytourbook/bugs/90/
 https://www.8020endurance.com/wp-content/library/run/RAe21.FIT
 https://www.8020endurance.com/wp-content/library/run/RAn5.FIT
 https://www.8020endurance.com/wp-content/library/run/RCI12.FIT
