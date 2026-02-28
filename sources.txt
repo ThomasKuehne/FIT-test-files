@@ -64219,6 +64219,8 @@ https://github.com/OpenFitnessArchive/OpenFitnessDataset.Entirety/raw/refs/heads
 https://github.com/OpenFitnessArchive/OpenFitnessDataset.Entirety/raw/refs/heads/main/datasets/general/2023/01/31/172941122232_WELLNESS.fit
 https://github.com/OpenFitnessArchive/OpenFitnessDataset.Entirety/raw/refs/heads/main/datasets/general/2023/01/31/172941140545_SLEEP_DATA.fit
 https://github.com/PeterK-end/swim-data-analyser/raw/refs/heads/main/swim_data_analyser/static/data/example.fit
+https://github.com/Schrottie/fitfile2db/raw/refs/heads/main/testdata/cycling_with_radar/10901565277_ACTIVITY.fit
+https://github.com/Schrottie/fitfile2db/raw/refs/heads/main/testdata/running/10906576264_ACTIVITY.fit
 https://github.com/Tigge/FIT-to-TCX/raw/refs/heads/main/tests/test.fit
 https://github.com/Trainalytics/fit-analyzer/raw/refs/heads/develop/activity/cycling/FTP-S1-1.fit
 https://github.com/Trainalytics/fit-analyzer/raw/refs/heads/develop/activity/cycling/FTP-S1-2.fit
@@ -65083,6 +65085,8 @@ https://github.com/joelash/fit-files/raw/refs/heads/master/running/2011-05-21-08
 https://github.com/joelash/fit-files/raw/refs/heads/master/running/2011-05-26-19-14-21.fit
 https://github.com/joelash/fit-files/raw/refs/heads/master/running/2011-06-14-05-07-59.fit
 https://github.com/johnazariah/fitwatch/raw/refs/heads/main/testdata/sample.fit
+https://github.com/jpickup/GarminTools/raw/refs/heads/master/app/src/test/resources/com.johnpickup.gpx/BedgeburyBlue.fit
+https://github.com/jpickup/GarminTools/raw/refs/heads/master/app/src/test/resources/com.johnpickup.gpx/SimpleTest.fit
 https://github.com/jsimpson/fitreader/raw/refs/heads/master/fixtures/garmin.fit
 https://github.com/jsimpson/fitreader/raw/refs/heads/master/fixtures/older-format.fit
 https://github.com/jsimpson/fitreader/raw/refs/heads/master/fixtures/wahoo.fit
@@ -65164,6 +65168,8 @@ https://github.com/muktihari/fit/raw/refs/heads/master/testdata/from_official_sd
 https://github.com/muktihari/fit/raw/refs/heads/master/testdata/from_official_sdk/activity_multisport.fit
 https://github.com/muktihari/fit/raw/refs/heads/master/testdata/from_official_sdk/activity_poolswim.fit
 https://github.com/muktihari/fit/raw/refs/heads/master/testdata/from_official_sdk/activity_poolswim_with_hr.fit
+https://github.com/muktihari/rustyfit/raw/refs/heads/master/rustyfit/tests/data/big_activity.fit
+https://github.com/muktihari/rustyfit/raw/refs/heads/master/rustyfit/tests/data/large.fit
 https://github.com/mwheinz/ebike-stats/raw/refs/heads/main/sample_data/Diverge.fit
 https://github.com/mwheinz/ebike-stats/raw/refs/heads/main/sample_data/Karoo-Morning_Ride-2025-07-14-0853.fit
 https://github.com/mwheinz/ebike-stats/raw/refs/heads/main/sample_data/Karoo-Morning_Ride-2025-08-02-0936.fit
