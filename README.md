@@ -11,12 +11,14 @@ FIT files are a data file format used by - among others - [COROS](https://coros.
 | [Sport](https://developer.garmin.com/connect-iq/api-docs/Toybox/Activity.html#Sport-module) | [Subsport](https://developer.garmin.com/connect-iq/api-docs/Toybox/Activity.html#SubSport-module) | sample FIT file |
 | ---: | ---: | :--- |
 |   0 |   0 | [generic](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2022/Activity_20220806_000_000_Generic_Fenix5Plus_42b466c5fd0115ae3dfe373cc134ba3f.fit) |
+|   0 |  15 | [elliptical](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2018/Activity_20180113_000_015_Elliptical_Fenix3Hr_f5b51a4c7ad45cedcaefea6fe076b126.fit) |
 |   0 |  18 | [open water](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2014/Activity_20140118_000_018_Open-Water_Fr310xt_3d912d931e795fe047986ebc1012a1f9.fit) |
 |   1 |   0 | [running](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2026/Activity_20260208_001_000_Running_Fenix7x_31f85d1ad3c4bb3dd3e786abe9fd651a.fit) |
 |   1 |   1 | [running / treadmill](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2023/Activity_20231205_001_001_Running_Treadmill_Fenix7x_96a02d9fe4ae9518cb3932907f8b8465.fit) |
 |   1 |   2 | [running / street](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2025/Activity_20250410_001_002_Running_Street_Nike_1794463148babf53fb33b260a19a91fe.fit) |
 |   1 |   3 | [running / trail](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2026/Activity_20260215_001_003_Running_Trail_Fenix7x_a790a6293770eda5fbd090ebfe8203b6.fit) |
 |   1 |   4 | [running / track](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2021/Activity_20210610_001_004_Running_Track_Fenix6_73dac73ee893e107be67b2cebb617e45.fit) |
+|   1 |  45 | [running / indoor running](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2022/Activity_20221213_001_045_Running_Indoor-Running_Watch6,18_f210d4280842997b50d2fd0705b9eb5c.fit) |
 |   1 |  58 | [running / virtual activity](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2022/Activity_20220217_001_058_Running_Virtual-Activity_Zwift_e6aa5b5c230e0846bb2231adc47018eb.fit) |
 |   2 |   0 | [cycling](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2025/Activity_20251119_002_000_Cycling_Karoo-2_f596048b2f0e5f2f73f6b10e8cedca16.fit) |
 |   2 |   6 | [cycling / indoor cycling](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2025/Activity_20251213_002_006_Cycling_Indoor-Cycling_Wattbike_e1cfeba6f1bfb55842f3a0374edb8d34.fit) |
@@ -51,4 +53,6 @@ FIT files are a data file format used by - among others - [COROS](https://coros.
 |  53 |  56 | [diving / apnea diving](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2024/Activity_20241230_053_056_Diving_Apnea-Diving_DescentMk2s_f17834965665d419f67604d779f85a03.fit) |
 |  53 |  63 | [diving / CCR diving](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2023/Activity_20231020_053_063_Diving_Ccr-Diving_Descent_4d6bfacaa18ba0a392cd05c5312142a6.fit) |
 |  75 |   0 | [volleyball](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2025/Activity_20250930_075_000_Volleyball_Fr965_59dfb83b97f9a5786c466d13a8b3de9e.fit) |
+|  80 |   0 | [mixed martial art](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2025/Activity_20250907_080_000_Mixed-Martial-Art_Development_0e421dab676538e970fcda617266e883.fit) |
+|  80 |  70 | [mixed martial art / HIIT](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2025/Activity_20250907_080_070_Mixed-Martial-Art_Hiit_Development_ac03c7377d27d0770fd6828c3f0d4cdb.fit) |
 |  82 |     | [snorkeling](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2025/Activity_20250827_082_Snorkeling_Suunto-Vertical-2_d055fea983a3830a0f2ddbb483358d96.fit) |
