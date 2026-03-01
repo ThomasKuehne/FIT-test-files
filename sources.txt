@@ -64343,6 +64343,10 @@ https://github.com/dtcooper/python-fitparse/raw/refs/heads/master/tests/files/ga
 https://github.com/dtcooper/python-fitparse/raw/refs/heads/master/tests/files/garmin-fenix-5-run.fit
 https://github.com/dtcooper/python-fitparse/raw/refs/heads/master/tests/files/garmin-fenix-5-walk.fit
 https://github.com/dtcooper/python-fitparse/raw/refs/heads/master/tests/files/nametest.FIT
+https://github.com/endurabyte/FitEdit/raw/refs/heads/main/Tests/TestData/15535326668_ACTIVITY.fit
+https://github.com/endurabyte/FitEdit/raw/refs/heads/main/Tests/TestData/2019-12-17-treadmill-run.fit
+https://github.com/endurabyte/FitEdit/raw/refs/heads/main/Tests/TestData/2024-09-05-groningen-paddling.fit
+https://github.com/endurabyte/FitEdit/raw/refs/heads/main/Tests/TestData/2024-11-17-elemnt-roam.fit
 https://github.com/endurain-project/endurain/issues/161
 https://github.com/endurain-project/endurain/issues/232
 https://github.com/endurain-project/endurain/issues/250
@@ -65438,6 +65442,14 @@ https://github.com/tormoder/fit/raw/refs/heads/master/testdata/misc/0134902991.f
 https://github.com/tormoder/fit/raw/refs/heads/master/testdata/misc/2013-02-06-12-11-14.fit
 https://github.com/tormoder/fit/raw/refs/heads/master/testdata/misc/2015-10-13-08-43-15.fit
 https://github.com/unstain/fit/raw/refs/heads/master/sample.fit
+https://github.com/useyournose/xeroconv-dev/raw/refs/heads/main/src/_tests/assets/06-18-2024_15-47-11.fit
+https://github.com/useyournose/xeroconv-dev/raw/refs/heads/main/src/_tests/assets/06-18-2024_15-50-06.fit
+https://github.com/useyournose/xeroconv-dev/raw/refs/heads/main/src/_tests/assets/06-18-2024_15-56-35.fit
+https://github.com/useyournose/xeroconv-dev/raw/refs/heads/main/src/_tests/assets/noshots.fit
+https://github.com/useyournose/xeroconv/raw/refs/heads/main/src/_tests/assets/06-18-2024_15-47-11.fit
+https://github.com/useyournose/xeroconv/raw/refs/heads/main/src/_tests/assets/06-18-2024_15-50-06.fit
+https://github.com/useyournose/xeroconv/raw/refs/heads/main/src/_tests/assets/06-18-2024_15-56-35.fit
+https://github.com/useyournose/xeroconv/raw/refs/heads/main/src/_tests/assets/noshots.fit
 https://github.com/viking-gps/viking/raw/refs/heads/master/test/Stonehenge.fit
 https://github.com/wthomare/Fit_Analyze/raw/refs/heads/master/source_data/2020-06-24-15-44-57.fit
 https://github.com/xplwowi/fit2subs/raw/refs/heads/master/fit-files/2018-01-06-11-47-38.fit
