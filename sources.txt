@@ -260,6 +260,17 @@ https://github.com/Douglas-Christian/rogue_garmin_bridge/raw/refs/heads/main/fit
 https://github.com/Douglas-Christian/rogue_garmin_bridge/raw/refs/heads/main/fit_files/bike_20250817_102311.fit
 https://github.com/Douglas-Christian/rogue_garmin_bridge/raw/refs/heads/main/fit_files/bike_20250817_111828.fit
 https://github.com/Douglas-Christian/rogue_garmin_bridge/raw/refs/heads/main/fit_files/fitfiletools.fit
+https://github.com/GPSBabel/gpsbabel/raw/refs/heads/master/reference/Lctns_Instinct.fit
+https://github.com/GPSBabel/gpsbabel/raw/refs/heads/master/reference/track/fit-sample.fit
+https://github.com/GPSBabel/gpsbabel/raw/refs/heads/master/reference/track/fitlocations-sample.fit
+https://github.com/GPSBabel/gpsbabel/raw/refs/heads/master/reference/track/fitwrite-track.fit
+https://github.com/GPSBabel/gpsbabel/raw/refs/heads/master/reference/track/garmin-edge-200-output.fit
+https://github.com/GPSBabel/gpsbabel/raw/refs/heads/master/reference/track/garmin-edge-800.fit
+https://github.com/GPSBabel/gpsbabel/raw/refs/heads/master/reference/track/garmin-forerunner-10.fit
+https://github.com/GPSBabel/gpsbabel/raw/refs/heads/master/reference/track/garmin-oregon-700.fit
+https://github.com/GPSBabel/gpsbabel/raw/refs/heads/master/reference/track/garmin-virb-ultra-30.fit
+https://github.com/GPSBabel/gpsbabel/raw/refs/heads/master/reference/track/garmin-vivosmart-hr.fit
+https://github.com/GPSBabel/gpsbabel/raw/refs/heads/master/reference/track/wahoo-element-bolt.fit
 https://github.com/GoldenCheetah/GoldenCheetah/issues/1926
 https://github.com/GoldenCheetah/GoldenCheetah/issues/2638
 https://github.com/GoldenCheetah/GoldenCheetah/issues/2838
