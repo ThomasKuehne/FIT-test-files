@@ -48,6 +48,7 @@ FIT files are a data file format used by - among others - [COROS](https://coros.
 |  37 |   0 | [stand up paddleboarding](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2022/Activity_20220815_037_000_Stand-Up-Paddleboarding_Development_626641cac7ead3606a9af17b87e35d54.fit) |
 |  43 |     | [windsurfing](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2022/Activity_20220913_043_Windsurfing_COROS-VERTIX_46e02a470a9dd63fdd28aa24aad832fc.fit) |
 |  52 |   0 | [stopwatch](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2023/Activity_20230722_052_000_Stopwatch_Fenix5Plus_3739f4bb7e630179d278cc446f94664a.fit) |
+|  53 |     | [diving](Activity/2024/Activity_20241016_053_Diving_Suunto-Ocean_7472453235dff1e64fb193d64f7efacd.fit) |
 |  53 |  53 | [diving / single gas diving](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2022/Activity_20220918_053_053_Diving_Single-Gas-Diving_Descent_5915616601537b7b33ac78a29c33685d.fit) |
 |  53 |  54 | [diving / multi gas diving](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2023/Activity_20231122_053_054_Diving_Multi-Gas-Diving_DescentMk2_9e6310d95e5fb06878b67ccee5f902a8.fit) |
 |  53 |  56 | [diving / apnea diving](https://github.com/ThomasKuehne/FIT-test-files/tree/main/Activity/2024/Activity_20241230_053_056_Diving_Apnea-Diving_DescentMk2s_f17834965665d419f67604d779f85a03.fit) |
