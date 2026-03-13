@@ -1,3 +1,16 @@
+https://analyze.dcrainmaker.com/#/public/17962ee5-4ae5-454e-4fe0-ba858f60946d
+https://analyze.dcrainmaker.com/#/public/3dec13a7-129c-4b35-60e6-f5611b76aa77
+https://analyze.dcrainmaker.com/#/public/48c6cc9d-fcf3-4e3d-6a93-7398912c499f
+https://analyze.dcrainmaker.com/#/public/4af51886-b625-4f04-4718-ab7658a25069
+https://analyze.dcrainmaker.com/#/public/5f24e91f-d865-4aeb-720a-5499de74857b
+https://analyze.dcrainmaker.com/#/public/620dd675-d3dd-47dc-40e9-56a963477982
+https://analyze.dcrainmaker.com/#/public/68002e9d-3e70-4908-58cb-535092168f5a
+https://analyze.dcrainmaker.com/#/public/7357c956-ebd6-47dd-7b1b-24329b03ff96
+https://analyze.dcrainmaker.com/#/public/792d839b-ebc1-489e-6f94-9ba04c09cc89
+https://analyze.dcrainmaker.com/#/public/9c3fa11e-5e10-47f3-54f4-5d1768219828
+https://analyze.dcrainmaker.com/#/public/a1be7085-080f-4992-7e9c-d4a8c6a2ea3f
+https://analyze.dcrainmaker.com/#/public/ad0e26f4-b7c1-4ea8-7fe2-7ab4aeaf9823
+https://analyze.dcrainmaker.com/#/public/e4a67d1e-d1aa-40fb-7098-ac80738f6f52
 https://aspartnercontent.blob.core.windows.net/apizone/docs/FITexamples.zip
 https://codeberg.org/Freeyourgadget/Gadgetbridge/raw/branch/master/app/src/test/resources/TestFitLocationEncoding.fit
 https://codeberg.org/IndiTrain/fit-sdk/raw/branch/main/tests/fits/ActivityDevFields.fit
