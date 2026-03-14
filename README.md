@@ -40,6 +40,7 @@ FIT files are a data file format used by - among others - [COROS](https://coros.
 |  11 |   0 | [walking](Activity/2023/Activity_20230912_011_000_Walking_Fr645m_9e6e9614db368ac380c10214cf8b38ac.fit) |
 |  11 |  27 | [walking / indoor walking](Activity/2025/Activity_20250630_011_027_Walking_Indoor-Walking_Venu2s_f653113e1454e350d171aa3a3809b2a9.fit) |
 |  12 |   0 | [cross / country-skiing](Activity/2020/Activity_20200114_012_000_Cross-Country-Skiing_Fenix3_7c44cb53ce1ab36dccfd10a53a828de5.fit) |
+|  13 |   0 | [alpine skiing](Activity/2017/Activity_20170312_013_000_Alpine-Skiing_Fr920xt_ee502bf3a06c4f52e2664d7e3ddddb65.fit) |
 |  15 |   0 | [rowing](Activity/2022/Activity_20221211_015_000_Rowing_Watch5,9_1740829541f656f0ee0ba5e9ba6bfa50.fit) |
 |  15 |  14 | [rowing / indoor-rowing](Activity/2022/Activity_20221211_015_014_Rowing_Indoor-Rowing_Fr945_7041dc177c9c718831419fb58a63dc4c.fit) |
 |  17 |   0 | [hiking](Activity/2022/Activity_20220406_017_000_Hiking_Fenix7_f84ddb27c8203ed7aaa4b0b87447974b.fit) |
