@@ -24,6 +24,7 @@ FIT files are a data file format used by - among others - [COROS](https://coros.
 |   2 |   6 | [cycling / indoor cycling](Activity/2025/Activity_20251213_002_006_Cycling_Indoor-Cycling_Wattbike_e1cfeba6f1bfb55842f3a0374edb8d34.fit) |
 |   2 |   7 | [cycling / road](Activity/2026/Activity_20260217_002_007_Cycling_Road_Edge1050_7941c9691ae19ad740a6673e95ea837d.fit) |
 |   2 |   8 | [cycling / mountain](Activity/2026/Activity_20260114_002_008_Cycling_Mountain_EdgeMtb_da6a5e2deec8f950a983c0dd81ab28c0.fit) |
+|   2 |   9 | [cycling / downhill](Activity/2026/Activity_20260118_002_009_Cycling_Downhill_EdgeMtb_1da0225a17673383029e744960ba3a56.fit) |
 |   2 |  46 | [cycling / gravel cycling](Activity/2025/Activity_20250629_002_046_Cycling_Gravel-Cycling_EdgeExplore2_f1035fbf1c9b4dd03ca3a24b05ff81fe.fit) |
 |   2 |  47 | [cycling / e-bike mountain](Activity/2026/Activity_20260203_002_047_Cycling_E-Bike-Mountain_Fenix7ProSolar_668112b50cf680234becf64c39009d6c.fit) |
 |   2 |  48 | [cycling / commuting](Activity/2025/Activity_20250525_002_048_Cycling_Commuting_Bryton_5be04daa0b6e535ebb22a12390e3b818.fit) |
