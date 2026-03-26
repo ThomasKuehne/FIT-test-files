@@ -8,7 +8,7 @@ FIT files are a data file format used by - among others - [COROS](https://coros.
 
 ## activity examples
 
-| [Sport](https://developer.garmin.com/connect-iq/api-docs/Toybox/Activity.html#Sport-module) | [Subsport](https://developer.garmin.com/connect-iq/api-docs/Toybox/Activity.html#SubSport-module) | sample FIT file |
+| [Sport](https://developer.garmin.com/connect-iq/api-docs/Toybox/Activity.html#Sport-module) | [Subsport](https://developer.garmin.com/connect-iq/api-docs/Toybox/Activity.html#SubSport-module) | sample activity FIT file |
 | ---: | ---: | :--- |
 |   0 |   0 | [generic](Activity/2022/Activity_20220806_000_000_Generic_Fenix5Plus_42b466c5fd0115ae3dfe373cc134ba3f.fit) |
 |   0 |  15 | [elliptical](Activity/2018/Activity_20180113_000_015_Elliptical_Fenix3Hr_f5b51a4c7ad45cedcaefea6fe076b126.fit) |
