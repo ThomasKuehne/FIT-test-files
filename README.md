@@ -47,8 +47,9 @@ FIT files are a data file format used by - among others - [COROS](https://coros.
 |  17 |   0 | [hiking](Activity/2022/Activity_20220406_017_000_Hiking_Fenix7_f84ddb27c8203ed7aaa4b0b87447974b.fit) |
 |  17 |   3 | [hiking / trail](Activity/2023/Activity_20230610_017_003_Hiking_Trail_Suunto-Vertical_d149673ba8d0667bef7a9fb68d91925d.fit) |
 |  21 |     | [e-biking](Activity/2026/Activity_20250308_021_E-Biking_Strava_643851414007e5b3640367bacdd555b5.fit) |
-|  37 |   0 | [stand up paddleboarding](Activity/2022/Activity_20220815_037_000_Stand-Up-Paddleboarding_Development_626641cac7ead3606a9af17b87e35d54.fit) |
-|  43 |     | [windsurfing](Activity/2022/Activity_20220913_043_Windsurfing_COROS-VERTIX_46e02a470a9dd63fdd28aa24aad832fc.fit) |
+|  32 |     | [sailing](Activity/2021/Activity_20211027_032_Sailing_Suunto-Ambit3-Sport_e12eec9e07b7db53fb1c1ea8242860cf.fit) |
+|  37 |   0 | [stand up paddleboarding](Activity/2022/Activity_20220319_037_000_Stand-Up-Paddleboarding_Fenix6_524c331f81ba314e76187bac5aa789b1.fit) |
+|  43 |     | [windsurfing](Activity/2022/Activity_20220424_043_000_Windsurfing_Fenix7_d061104db79f179c03651ca0538d14d4.fit) |
 |  52 |   0 | [stopwatch](Activity/2023/Activity_20230722_052_000_Stopwatch_Fenix5Plus_3739f4bb7e630179d278cc446f94664a.fit) |
 |  53 |     | [diving](Activity/2024/Activity_20241016_053_Diving_Suunto-Ocean_7472453235dff1e64fb193d64f7efacd.fit) |
 |  53 |  53 | [diving / single gas diving](Activity/2022/Activity_20220918_053_053_Diving_Single-Gas-Diving_Descent_5915616601537b7b33ac78a29c33685d.fit) |
