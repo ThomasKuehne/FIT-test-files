@@ -90,6 +90,7 @@ https://analyze.dcrainmaker.com/#/public/e50990dd-e9d4-4bcf-57a0-822ca525a949
 https://analyze.dcrainmaker.com/#/public/f2fd45c6-bcc5-427a-65c6-f50f397ea8c4
 https://analyze.dcrainmaker.com/#/public/fa5ec397-8c95-49aa-4dc7-35c68eb25c62
 https://aspartnercontent.blob.core.windows.net/apizone/docs/FITexamples.zip
+https://codeberg.org/Freeyourgadget/Gadgetbridge/issues/4330
 https://codeberg.org/Freeyourgadget/Gadgetbridge/raw/branch/master/app/src/test/resources/TestFitLocationEncoding.fit
 https://codeberg.org/IndiTrain/fit-sdk/raw/branch/main/tests/fits/ActivityDevFields.fit
 https://codeberg.org/IndiTrain/fit-sdk/raw/branch/main/tests/fits/HrmPluginTestActivity.fit
@@ -746,6 +747,7 @@ https://github.com/JParzival/fithelper/raw/refs/heads/main/data/fit/2024-03-06-1
 https://github.com/JParzival/fithelper/raw/refs/heads/main/data/fit/2024-03-06-18-49-22.fit
 https://github.com/JParzival/fithelper/raw/refs/heads/main/data/fit/2024-03-09-16-50-26.fit
 https://github.com/JParzival/fithelper/raw/refs/heads/main/data/fit/inProgressActivity.fit
+https://github.com/Likenttt/garmin-connectiq-samples-brief-explanations/raw/refs/heads/main/Samples-from-Garmin/PitchCounter/pitch_counter_8_pitches.FIT
 https://github.com/Logiqx/gp3s-coros/issues/27
 https://github.com/Logiqx/gps-data/raw/refs/heads/main/sessions/20220201/tracks/APEX-Pro-Speedsurfing20220201123622.fit
 https://github.com/Logiqx/gps-data/raw/refs/heads/main/sessions/20220206/tracks/APEX-Pro-Speedsurfing20220206111617.fit
@@ -968,6 +970,8 @@ https://github.com/MegOettle/KyleFITfiles/raw/refs/heads/main/JNI9BSKEAT_tHk13IY
 https://github.com/MegOettle/KyleFITfiles/raw/refs/heads/main/JNI9BSKEAT_y2cTnVysiG.fit
 https://github.com/MegOettle/KyleFITfiles/raw/refs/heads/main/skPmTamZpv_FIe4oPziYj%20(1).fit
 https://github.com/MegOettle/KyleFITfiles/raw/refs/heads/main/skPmTamZpv_eAOsyEmSSb%20(1).fit
+https://github.com/Naveen-Virinchi/magene_fitness_activity/raw/refs/heads/main/fitness_activity/anna_nagar_activity.fit
+https://github.com/Naveen-Virinchi/magene_fitness_activity/raw/refs/heads/main/fitness_activity/marina_activity.fit
 https://github.com/Nick2bad4u/FitFileViewer/raw/refs/heads/main/fit-test-files/17326739450_ACTIVITY.fit
 https://github.com/Nick2bad4u/FitFileViewer/raw/refs/heads/main/fit-test-files/18857497810_ACTIVITY.fit
 https://github.com/Nick2bad4u/FitFileViewer/raw/refs/heads/main/fit-test-files/Virtual_Zwift_Climb_Portal_Cauberg_at_100_Elevation_in_Watopia_12_miles.fit
@@ -65756,6 +65760,7 @@ https://github.com/databike-io/pyfitparquet/raw/refs/heads/main/test/fixtures/Bo
 https://github.com/databike-io/pyfitparquet/raw/refs/heads/main/test/fixtures/Who_Dares_Bolt.fit
 https://github.com/databike-io/pyfitparquet/raw/refs/heads/main/test/fixtures/Who_Dares_Sufferfest.fit
 https://github.com/databike-io/pyfitparquet/raw/refs/heads/main/test/fixtures/Who_Dares_Whoop.fit
+https://github.com/diegoscarabelli/openetl/raw/refs/heads/main/dags/pipelines/garmin/example_data/12345678_ACTIVITY_19983039914_2025-08-07T12:00:00Z.fit
 https://github.com/djong1/gp3s-public-issues/issues/159
 https://github.com/djong1/gp3s-public-issues/issues/61
 https://github.com/dtcooper/python-fitparse/raw/refs/heads/master/tests/files/2013-02-06-12-11-14.fit
@@ -65847,7 +65852,23 @@ https://github.com/endurain-project/endurain/issues/335
 https://github.com/endurain-project/endurain/issues/345
 https://github.com/endurain-project/endurain/issues/475
 https://github.com/endurain-project/endurain/issues/528
+https://github.com/euri10/gols/raw/refs/heads/master/tests/directory_fit/2015-10-01-13-08-16-Run.fit
 https://github.com/felipeam86/garpy/raw/refs/heads/develop/tests/response_examples/example_original_with_fit.zip
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/tests/data/2020-09-12-11-15-46.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/tests/data/2020-10-25-10-54-06.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/tests/data/example.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/tests/data/run_with_coordinates.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/tests/data/swim_no_coordinates.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/tests/data/with_nones.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/2019-09-14-17-22-05.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/2019-09-18-16-02-35.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/2019-09-25-16-15-53.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/2020-08-20-09-34-33.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/2020-08-28-11-57-10.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/2020-08-31-17-41-11.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/2020-10-25-10-54-06.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/cycling_bad_schandau.fit
+https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/hike_with_coordinates_muggenbrunn.fit
 https://github.com/finn-eger/derailleur/raw/refs/heads/main/fixtures/afternoon-ride.fit
 https://github.com/finn-eger/derailleur/raw/refs/heads/main/fixtures/morning-trail-run.fit
 https://github.com/finn-eger/derailleur/raw/refs/heads/main/fixtures/trail-run-course.fit
@@ -66583,6 +66604,7 @@ https://github.com/jat255/Fit-File-Faker/issues/36
 https://github.com/jat255/Fit-File-Faker/issues/51
 https://github.com/jat255/Fit-File-Faker/issues/65
 https://github.com/jat255/Fit-File-Faker/issues/7
+https://github.com/jat255/Fit-File-Faker/issues/70
 https://github.com/jat255/Fit-File-Faker/issues/74
 https://github.com/jat255/Fit-File-Faker/raw/refs/heads/main/tests/files/coros_20251118.fit
 https://github.com/jat255/Fit-File-Faker/raw/refs/heads/main/tests/files/karoo_20251119.fit
@@ -66752,6 +66774,7 @@ https://github.com/marcelblijleven/fittie/raw/refs/heads/main/tests/data/fittie_
 https://github.com/marcelblijleven/fittie/raw/refs/heads/main/tests/data/fittie_minimal_file.fit
 https://github.com/marcelblijleven/fittie/raw/refs/heads/main/tests/data/fittie_monitoring_file.fit
 https://github.com/marcelblijleven/fittie/raw/refs/heads/main/tests/data/fittie_settings_file.fit
+https://github.com/markdor/gritshot/raw/refs/heads/main/tests/fixtures/fit/gravel.fit
 https://github.com/meistermeier/fitfile4j/raw/refs/heads/main/fitfile4j-parser/src/test/resources/raw_run.fit
 https://github.com/mikey75/etrex-uploader/raw/refs/heads/master/src/test/resources/trackfiles/fit-noElevation.fit
 https://github.com/mikey75/etrex-uploader/raw/refs/heads/master/src/test/resources/trackfiles/track.fit
@@ -66956,6 +66979,7 @@ https://github.com/philosowaffle/peloton-to-garmin/raw/refs/heads/master/src/Uni
 https://github.com/philosowaffle/peloton-to-garmin/raw/refs/heads/master/src/UnitTests/Data/sample_fit/strength_with_exercises.fit
 https://github.com/philosowaffle/peloton-to-garmin/raw/refs/heads/master/src/UnitTests/Data/sample_fit/yoga_recorded_on_watch.fit
 https://github.com/pierremtb/easy-fit/raw/refs/heads/master/examples/example.fit
+https://github.com/pierremtb/easy-fit/raw/refs/heads/master/test-dist/test.fit
 https://github.com/pierremtb/easy-fit/raw/refs/heads/master/test/test.fit
 https://github.com/pierremtb/easy-fit/raw/refs/heads/master/test/test2.fit
 https://github.com/plaub/FIT-to-BigQuery-ETL/raw/refs/heads/main/test/Frankfurt_Marathon.fit
@@ -67364,6 +67388,8 @@ https://github.com/stadelmanma/fitparse-rs/raw/refs/heads/master/fitparser/tests
 https://github.com/stadelmanma/fitparse-rs/raw/refs/heads/master/fitparser/tests/fixtures/sample_mulitple_header.fit
 https://github.com/stefanjenkner/fdf-console-recorder/raw/refs/heads/main/samples/1670790032608_watch.fit
 https://github.com/stoegex/Garmin-GPX-POI-Finder/raw/refs/heads/main/Mallnitz%20Buzet%20Bikepacking_50m-water.fit
+https://github.com/submersion-app/submersion/issues/171
+https://github.com/submersion-app/submersion/issues/172
 https://github.com/subsurface/subsurface/raw/refs/heads/master/dives/garmin_2023-08-17-08-51-59.fit
 https://github.com/subsurface/subsurface/raw/refs/heads/master/dives/garmin_2023-10-21-12-13-38.fit
 https://github.com/surflog-tech/fit2geo/raw/refs/heads/main/assets/6829812928_ACTIVITY.fit
