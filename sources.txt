@@ -1,3 +1,4 @@
+https://analyze.dcrainmaker.com/#/public/00e3f46a-5f54-4b69-7e42-78ba20d139d4
 https://analyze.dcrainmaker.com/#/public/0169beaf-d38b-492e-7bc4-3e60db9d9a6f
 https://analyze.dcrainmaker.com/#/public/0550393c-8f60-4fc2-6413-f0001e9fd7e2
 https://analyze.dcrainmaker.com/#/public/063667b8-05b7-40a9-6fbe-f785f48c3216
@@ -6,7 +7,10 @@ https://analyze.dcrainmaker.com/#/public/0f70e71c-0c65-4b2b-5ef7-1b59436fac47
 https://analyze.dcrainmaker.com/#/public/1666b2d9-2bbe-4527-4b51-0032e28cb37d
 https://analyze.dcrainmaker.com/#/public/17962ee5-4ae5-454e-4fe0-ba858f60946d
 https://analyze.dcrainmaker.com/#/public/19a4c1f4-680d-4168-64fd-7b9c7659e59b
+https://analyze.dcrainmaker.com/#/public/1b737ba5-3312-4d8c-40f4-f63df80b368a
 https://analyze.dcrainmaker.com/#/public/1c28adc4-eeb7-4905-69e2-6ecfd33a383a
+https://analyze.dcrainmaker.com/#/public/1cb7927a-9607-4bb7-4338-67389bb6d468
+https://analyze.dcrainmaker.com/#/public/213405b3-d7c3-497d-5567-7ffd25947be9
 https://analyze.dcrainmaker.com/#/public/2174ed0d-5e41-450f-70e6-514cf084f485
 https://analyze.dcrainmaker.com/#/public/219783e7-e442-4451-6868-35a9ce222291
 https://analyze.dcrainmaker.com/#/public/241ec728-8158-4bcf-7839-29ae2c468e37
@@ -27,11 +31,14 @@ https://analyze.dcrainmaker.com/#/public/3ea02428-79ea-4095-45f4-8be28bd5c82e
 https://analyze.dcrainmaker.com/#/public/43d4e6fc-fb05-4f5c-7da8-2fd00765930d
 https://analyze.dcrainmaker.com/#/public/440351ad-13d0-47ec-44b4-42fec7c30c8d
 https://analyze.dcrainmaker.com/#/public/464185c9-b240-487d-7fa4-d9dde49c48c9
+https://analyze.dcrainmaker.com/#/public/47656b80-1b0a-412b-4882-62ba8df09c20
 https://analyze.dcrainmaker.com/#/public/48c6cc9d-fcf3-4e3d-6a93-7398912c499f
+https://analyze.dcrainmaker.com/#/public/4a07178a-8763-4397-6f21-4a52fffbe4b4
 https://analyze.dcrainmaker.com/#/public/4af51886-b625-4f04-4718-ab7658a25069
 https://analyze.dcrainmaker.com/#/public/4b6a45ab-717d-4e29-4ffa-d2166b3a8095
 https://analyze.dcrainmaker.com/#/public/4ff321f1-60ef-4b3c-783c-d69960c18372
 https://analyze.dcrainmaker.com/#/public/51a7f05d-6fda-4e17-5951-7c7ef34821ac
+https://analyze.dcrainmaker.com/#/public/583d5010-7c1f-4642-7be7-c5cf640c7dae
 https://analyze.dcrainmaker.com/#/public/597456dc-b3ac-4d4d-6dae-cf0873799d8e
 https://analyze.dcrainmaker.com/#/public/5b83de04-ab22-4552-5c90-a76613cb62bc
 https://analyze.dcrainmaker.com/#/public/5e557204-cc89-41da-73b3-0109e6bc2e6c
@@ -40,6 +47,7 @@ https://analyze.dcrainmaker.com/#/public/61734dfe-dd01-4e25-556f-b93bc44a6f96
 https://analyze.dcrainmaker.com/#/public/620dd675-d3dd-47dc-40e9-56a963477982
 https://analyze.dcrainmaker.com/#/public/68002e9d-3e70-4908-58cb-535092168f5a
 https://analyze.dcrainmaker.com/#/public/6bfecc95-0a69-4973-47f7-a53a402ef177
+https://analyze.dcrainmaker.com/#/public/6e95399d-2910-4bb1-4411-0a92ae880672
 https://analyze.dcrainmaker.com/#/public/6f38394f-7688-4639-6f16-3f13c5ee32a2
 https://analyze.dcrainmaker.com/#/public/71825653-c48a-45f3-7545-1dab252d1368
 https://analyze.dcrainmaker.com/#/public/7357c956-ebd6-47dd-7b1b-24329b03ff96
@@ -49,9 +57,12 @@ https://analyze.dcrainmaker.com/#/public/76e98d15-dfe9-4e4c-7acf-fb2dfe25f919
 https://analyze.dcrainmaker.com/#/public/792d839b-ebc1-489e-6f94-9ba04c09cc89
 https://analyze.dcrainmaker.com/#/public/7ddd15d6-b93c-4411-5619-b7203c3059e6
 https://analyze.dcrainmaker.com/#/public/86652685-3fa9-4581-54d4-a9019ee99c95
+https://analyze.dcrainmaker.com/#/public/89c63608-668f-404e-5b73-66d15d406007
 https://analyze.dcrainmaker.com/#/public/8a95290a-d5e2-4d79-7011-50e555176bff
 https://analyze.dcrainmaker.com/#/public/8c422ae5-dc68-423b-76a0-92176a82d25b
 https://analyze.dcrainmaker.com/#/public/8f7e4bd8-86fb-4095-4b17-112541915b93
+https://analyze.dcrainmaker.com/#/public/93347488-fef5-4b4a-6b97-c2ee0e4b2468
+https://analyze.dcrainmaker.com/#/public/9535fc69-d2a3-4a30-4dcc-aa35fd74d295
 https://analyze.dcrainmaker.com/#/public/955b17f0-fd8b-48be-6e89-f3de820eba81
 https://analyze.dcrainmaker.com/#/public/96c118a5-d0b5-4ae5-4061-7d220237b488
 https://analyze.dcrainmaker.com/#/public/97bdaa67-c075-4f74-74d8-736ca53329ac
@@ -71,26 +82,34 @@ https://analyze.dcrainmaker.com/#/public/b9c540db-ebd0-497d-6f7c-314b2aa6076f
 https://analyze.dcrainmaker.com/#/public/ba126fc4-9635-4740-7328-f89b07b181ca
 https://analyze.dcrainmaker.com/#/public/bb6864c8-b0b2-4f71-7f9f-9b743588352a
 https://analyze.dcrainmaker.com/#/public/bd206941-0d57-444a-7a6d-e115bd520218
+https://analyze.dcrainmaker.com/#/public/bf0e5c56-9e05-4eca-731f-b77552a10f45
 https://analyze.dcrainmaker.com/#/public/c13984fa-2819-4acc-502f-ca3977f6a8a2
 https://analyze.dcrainmaker.com/#/public/c27909d2-2f5f-4cae-75d7-cc0aa48efc9d
 https://analyze.dcrainmaker.com/#/public/c3e8762a-fa52-4917-42e0-80bd097b2afc
 https://analyze.dcrainmaker.com/#/public/c8bf5a9d-4585-46ac-6f88-54603c5968b2
 https://analyze.dcrainmaker.com/#/public/c9672c20-8bd2-4d1f-4fea-e7536607ace4
+https://analyze.dcrainmaker.com/#/public/ce943c8c-8c76-4ed7-7ff9-b62239069298
+https://analyze.dcrainmaker.com/#/public/cf1a1903-9642-45ce-6bac-9c88be740c8b
 https://analyze.dcrainmaker.com/#/public/d11413b6-7120-45c8-79ba-f577e6639b50
 https://analyze.dcrainmaker.com/#/public/d220031e-c6c9-4041-4876-a7c9a71c99a9
 https://analyze.dcrainmaker.com/#/public/d50d7980-4fb3-4994-522b-2826cfd57ccf
 https://analyze.dcrainmaker.com/#/public/d55f94a4-4414-47ca-4e36-af12ad25e049
 https://analyze.dcrainmaker.com/#/public/d68f193b-cf43-43f1-60a5-b8bda4bd9acc
 https://analyze.dcrainmaker.com/#/public/d68f193b-cf43-43f1-60a5-b8bda4bd9acc	
+https://analyze.dcrainmaker.com/#/public/d7fefa0b-0ef4-4eba-44d1-1405e99e37e3
+https://analyze.dcrainmaker.com/#/public/dca41e40-5cce-4f17-6f3a-c8c5cae1c59a
 https://analyze.dcrainmaker.com/#/public/dcf713bd-951a-4aab-485f-7c69e1b9ac47
 https://analyze.dcrainmaker.com/#/public/df4544b3-1b32-4681-72e1-ac8e9f12c8b1
 https://analyze.dcrainmaker.com/#/public/e38df081-5ec1-4f54-52ea-17ffb0389114
 https://analyze.dcrainmaker.com/#/public/e4a67d1e-d1aa-40fb-7098-ac80738f6f52
 https://analyze.dcrainmaker.com/#/public/e50990dd-e9d4-4bcf-57a0-822ca525a949
+https://analyze.dcrainmaker.com/#/public/efa717c5-ec95-43e6-74e5-dc57d3a76063
 https://analyze.dcrainmaker.com/#/public/f2fd45c6-bcc5-427a-65c6-f50f397ea8c4
+https://analyze.dcrainmaker.com/#/public/f5a292ef-03f7-4ff9-5a80-e5ab6edc2b35
 https://analyze.dcrainmaker.com/#/public/fa5ec397-8c95-49aa-4dc7-35c68eb25c62
 https://aspartnercontent.blob.core.windows.net/apizone/docs/FITexamples.zip
 https://codeberg.org/Freeyourgadget/Gadgetbridge/issues/4330
+https://codeberg.org/Freeyourgadget/Gadgetbridge/issues/4331
 https://codeberg.org/Freeyourgadget/Gadgetbridge/raw/branch/master/app/src/test/resources/TestFitLocationEncoding.fit
 https://codeberg.org/IndiTrain/fit-sdk/raw/branch/main/tests/fits/ActivityDevFields.fit
 https://codeberg.org/IndiTrain/fit-sdk/raw/branch/main/tests/fits/HrmPluginTestActivity.fit
@@ -388,6 +407,7 @@ https://github.com/Asherlc/dofek/raw/refs/heads/main/src/fit/fixtures/test.fit
 https://github.com/BisonLeo/FitViber/raw/refs/heads/master/testdata/2026-02-10-14-36-07.fit
 https://github.com/CentralHarlemAnonymous/fit2Mathematica/raw/refs/heads/master/2016-04-30-21-57-29.fit
 https://github.com/CollectiveCycling/Fit2Thrift/raw/refs/heads/master/src/main/resources/2016-03-04-05-44-27.fit
+https://github.com/CrashLoopBackCoffee/th-strava-sensor/raw/refs/heads/main/tests/fixtures/test-1.fit
 https://github.com/Dan-Martin512/Fit2Geo/raw/refs/heads/master/test/data/9270632244.fit
 https://github.com/Dan-Martin512/Fit2Geo/raw/refs/heads/master/test/data/9276320389.fit
 https://github.com/Daniel-Vitanza/Garmin-Strength-Training-Fit-File-Generator/raw/refs/heads/main/01%20-%20Main/fit-files/FullBody_-_Beginner_-_A_workout.fit
@@ -65869,6 +65889,7 @@ https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_da
 https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/2020-10-25-10-54-06.fit
 https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/cycling_bad_schandau.fit
 https://github.com/fgebhart/workoutizer/raw/refs/heads/main/wkz/initial_trace_data/hike_with_coordinates_muggenbrunn.fit
+https://github.com/fiddur/aurboda/raw/refs/heads/develop/apps/backend/src/services/__fixtures__/sample.fit
 https://github.com/finn-eger/derailleur/raw/refs/heads/main/fixtures/afternoon-ride.fit
 https://github.com/finn-eger/derailleur/raw/refs/heads/main/fixtures/morning-trail-run.fit
 https://github.com/finn-eger/derailleur/raw/refs/heads/main/fixtures/trail-run-course.fit
@@ -65983,6 +66004,8 @@ https://github.com/hammerheadnav/fit/raw/refs/heads/master/testdata/sram/Setting
 https://github.com/hammerheadnav/fit/raw/refs/heads/master/testdata/sram/Settings2.fit
 https://github.com/harborsiem/ELEMNTViewer/raw/refs/heads/master/Example/2018-06-19-081218-ELEMNT%20BOLT%20FCEE-5-0.fit
 https://github.com/hbuhrmann/readcycledata/raw/refs/heads/master/Datafiles/Raw/garminoriginalfilewithstagespowermeter.fit
+https://github.com/heilingch/fit_analyser/blob/main/2026-04-11-14-10-08.fit
+https://github.com/heilingch/fit_analyser/raw/refs/heads/main/2026-04-11-14-10-08_fixed.fit
 https://github.com/hekrause/garmin_translate/raw/refs/heads/master/src/ACTIVITY/77ID4353.FIT
 https://github.com/hekrause/garmin_translate/raw/refs/heads/master/src/ACTIVITY/77LB0459.FIT
 https://github.com/hekrause/garmin_translate/raw/refs/heads/master/src/ACTIVITY/77ND2258.FIT
@@ -66747,6 +66770,7 @@ https://github.com/key/python-fitparse/raw/refs/heads/master/tests/data/sample-a
 https://github.com/key/python-fitparse/raw/refs/heads/master/tests/data/sample-activity.fit
 https://github.com/kthej/ScoreTrak/raw/refs/heads/main/Test%20stuff/2026-03-18-18-16-55.fit
 https://github.com/kuperov/fit/raw/refs/heads/master/examples/mt_beauty.fit
+https://github.com/latchbolt/thedistance.app/raw/refs/heads/main/appview/tests/fixtures/ride.fit
 https://github.com/leobalter/peloton-to-garmin/raw/refs/heads/master/src/UnitTests/Data/Fenix_Incline.fit
 https://github.com/leobalter/peloton-to-garmin/raw/refs/heads/master/src/UnitTests/Data/Runn_Incline.fit
 https://github.com/leobalter/peloton-to-garmin/raw/refs/heads/master/src/UnitTests/Data/SyncMyWorkout01.fit
@@ -66775,7 +66799,146 @@ https://github.com/marcelblijleven/fittie/raw/refs/heads/main/tests/data/fittie_
 https://github.com/marcelblijleven/fittie/raw/refs/heads/main/tests/data/fittie_monitoring_file.fit
 https://github.com/marcelblijleven/fittie/raw/refs/heads/main/tests/data/fittie_settings_file.fit
 https://github.com/markdor/gritshot/raw/refs/heads/main/tests/fixtures/fit/gravel.fit
+https://github.com/markdor/gritshot/raw/refs/heads/main/tests/fixtures/fit/megamarsch.fit
 https://github.com/meistermeier/fitfile4j/raw/refs/heads/main/fitfile4j-parser/src/test/resources/raw_run.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2021-12-25-132457-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2021-12-31-134508-Outdoor Running-Strava.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2021-12-31-135559-Outdoor Running-Strava.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2022-01-02-130500-Outdoor Running-Strava.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2022-01-18-201417-Outdoor Running-Strava.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2022-02-04-132235-Outdoor Running-Strava.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2022-11-07-180641-Outdoor Running-Strava.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2023-02-26-142934-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2023-03-01-160939-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2023-06-06-090339-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2023-08-29-082716-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2023-09-23-124721-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-02-14-231550-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-03-28-064857-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-03-29-070426-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-04-03-153323-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-04-03-153815-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-04-05-071305-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-04-05-071536-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-04-08-074532-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-04-14-082255-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-05-21-065820-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-05-31-111826-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-06-08-101920-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-06-15-222020-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-06-18-212019-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-06-30-203844-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-06-30-204118-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-07-23-152821-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-08-27-073352-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-09-01-184508-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-09-08-101258-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-12-21-145553-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-12-27-140942-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2024-12-27-142155-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-03-05-133751-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-03-14-171836-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-03-29-112018-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-03-30-181353-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-04-16-213315-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-04-21-115617-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-05-02-155655-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-05-16-094116-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-05-27-210725-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-06-01-182113-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-06-01-182712-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-06-06-100919-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-06-10-195903-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-06-12-221348-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-06-14-200549-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-06-14-220337-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-06-21-113420-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-06-24-210759-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-07-02-201232-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-07-04-213606-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-07-05-202001-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-07-08-185927-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-07-10-104353-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-07-12-123005-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-07-14-094000-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-07-14-100756-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-07-17-175415-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-07-23-063224-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-07-27-113425-Indoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-08-06-192245-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-08-12-151707-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-08-15-195515-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-08-16-190828-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-08-20-080901-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-08-21-190119-Outdoor Running-HealthFit.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-08-23-081852-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-08-25-092953-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-08-28-080824-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-08-28-175356-Outdoor Football-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-08-30-100515-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-01-092544-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-03-072214-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-05-103748-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-05-115243-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-06-135140-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-09-081854-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-11-203708-Outdoor Football-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-13-132821-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-15-090743-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-16-140938-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-19-194100-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-20-084856-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-20-092859-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-21-193032-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-26-084630-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-27-073243-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-09-30-071037-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-10-04-095947-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-10-09-080159-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-10-12-092156-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-10-12-100103-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-10-19-103038-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-10-23-071448-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-10-26-145053-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-10-29-065724-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-10-31-070609-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-10-31-073448-Outdoor Running-Apple Watch de Lucjan.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-11-02-083533-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-11-04-121517-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-11-06-082827-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-11-09-073034-Outdoor Running-Runna.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-11-09-083034-Outdoor Running-Runna.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-11-22-122237-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-11-23-104400-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-12-14-135058-Outdoor Walking-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-12-21-145142-Outdoor Walking-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-12-23-112157-Outdoor Walking-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-12-24-134929-Outdoor Walking-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2025-12-27-085908-Virtual Cycling-HealthFit.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-01-01-140110-Outdoor Walking-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-01-04-115009-Outdoor Walking-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-01-16-133557-Outdoor Cycling-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-01-25-142331-Outdoor Running-HealthFit.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-01-25-143340-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-01-31-110919-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-02-04-155916-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-02-06-114036-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-02-08-145236-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-02-12-073911-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-02-22-131942-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-02-25-200251-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-02-28-155626-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-03-01-164217-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-03-16-065053-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-03-22-155017-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-03-24-063123-Outdoor Running-Runna.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-03-28-181847-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-03-29-183750-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-03-31-195342-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-04-04-135003-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-04-05-170403-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-04-08-070031-Outdoor Running-Lucjan’s Apple Watch.fit
+https://github.com/methyl/paceapp/raw/refs/heads/main/test/fixtures/2026-04-19-easy 3.fit
 https://github.com/mikey75/etrex-uploader/raw/refs/heads/master/src/test/resources/trackfiles/fit-noElevation.fit
 https://github.com/mikey75/etrex-uploader/raw/refs/heads/master/src/test/resources/trackfiles/track.fit
 https://github.com/milkway/garmin/raw/refs/heads/main/data/9364716502_ACTIVITY.fit
@@ -66946,6 +67109,7 @@ https://github.com/nicolacavallini/explore-garmin-data/raw/refs/heads/master/dat
 https://github.com/nicolacavallini/explore-garmin-data/raw/refs/heads/master/data/run/2019-07-31-18-09-14.fit
 https://github.com/noppanut15/depthviz/raw/refs/heads/main/tests/data/suunto/FreeDiving_2024-10-16T16_33_30.fit
 https://github.com/nullpointer0x00/TrackConverter/raw/refs/heads/master/src/test/resources/test.FIT
+https://github.com/onema/dive-telemetry/raw/refs/heads/main/lib/src/commonTest/resources/ACTIVITY.fit
 https://github.com/open-wanderer/wanderer/issues/841
 https://github.com/pablo-albaladejo/kaiord/raw/refs/heads/main/test-fixtures/fit/WorkoutCustomTargetValues.fit
 https://github.com/pablo-albaladejo/kaiord/raw/refs/heads/main/test-fixtures/fit/WorkoutIndividualSteps.fit
@@ -67195,6 +67359,10 @@ https://github.com/rootrootde/python_fit_tool/raw/refs/heads/main/fit_tool/tests
 https://github.com/rootrootde/python_fit_tool/raw/refs/heads/main/fit_tool/tests/data/stagesLink_25622166.fit
 https://github.com/rootrootde/python_fit_tool/raw/refs/heads/main/fit_tool/tests/data/stagesLink_28832.fit
 https://github.com/rootrootde/python_fit_tool/raw/refs/heads/main/fit_tool/tests/data/trainerroad_744490.fit
+https://github.com/royceschultz/Cycling-Power-Calculator/raw/refs/heads/master/rides/Eldorado.fit
+https://github.com/royceschultz/Cycling-Power-Calculator/raw/refs/heads/master/rides/Flagstaff.fit
+https://github.com/royceschultz/Cycling-Power-Calculator/raw/refs/heads/master/rides/NCAR.fit
+https://github.com/royceschultz/Cycling-Power-Calculator/raw/refs/heads/master/rides/Triple_Bypass.fit
 https://github.com/roznet/FitFileParser/raw/refs/heads/main/Tests/FitFileParserSwiftTests/samples/2023-01-13_heartratef.fit
 https://github.com/roznet/FitFileParser/raw/refs/heads/main/Tests/FitFileParserSwiftTests/samples/gearstest.fit
 https://github.com/roznet/FitFileParser/raw/refs/heads/main/Tests/FitFileParserSwiftTests/samples/leftrightbalancetest.fit
@@ -67390,6 +67558,13 @@ https://github.com/stefanjenkner/fdf-console-recorder/raw/refs/heads/main/sample
 https://github.com/stoegex/Garmin-GPX-POI-Finder/raw/refs/heads/main/Mallnitz%20Buzet%20Bikepacking_50m-water.fit
 https://github.com/submersion-app/submersion/issues/171
 https://github.com/submersion-app/submersion/issues/172
+https://github.com/subsurface/subsurface/issues/3459
+https://github.com/subsurface/subsurface/issues/4220
+https://github.com/subsurface/subsurface/issues/4221
+https://github.com/subsurface/subsurface/issues/4225
+https://github.com/subsurface/subsurface/issues/4401
+https://github.com/subsurface/subsurface/issues/4465
+https://github.com/subsurface/subsurface/issues/4645
 https://github.com/subsurface/subsurface/raw/refs/heads/master/dives/garmin_2023-08-17-08-51-59.fit
 https://github.com/subsurface/subsurface/raw/refs/heads/master/dives/garmin_2023-10-21-12-13-38.fit
 https://github.com/surflog-tech/fit2geo/raw/refs/heads/main/assets/6829812928_ACTIVITY.fit
