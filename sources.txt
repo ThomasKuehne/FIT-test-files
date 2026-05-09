@@ -66803,6 +66803,7 @@ https://github.com/joelash/fit-files/raw/refs/heads/master/running/2011-05-21-08
 https://github.com/joelash/fit-files/raw/refs/heads/master/running/2011-05-26-19-14-21.fit
 https://github.com/joelash/fit-files/raw/refs/heads/master/running/2011-06-14-05-07-59.fit
 https://github.com/johnazariah/fitwatch/raw/refs/heads/main/testdata/sample.fit
+https://github.com/jonymusky/fit-sports/raw/refs/heads/master/fit_test/example.fit
 https://github.com/jovandeginste/workout-tracker/issues/1
 https://github.com/jovandeginste/workout-tracker/issues/737
 https://github.com/jovandeginste/workout-tracker/issues/785
@@ -67133,6 +67134,13 @@ https://github.com/mytourbook/mytourbook/issues/1517
 https://github.com/mytourbook/mytourbook/issues/1524
 https://github.com/mytourbook/mytourbook/issues/1580
 https://github.com/mytourbook/mytourbook/issues/1581
+https://github.com/mytourbook/mytourbook/raw/refs/heads/main/bundles/net.tourbook.tests/src/test/device/garmin/fit/files/1-30-21 3-47 PM.fit
+https://github.com/mytourbook/mytourbook/raw/refs/heads/main/bundles/net.tourbook.tests/src/test/device/garmin/fit/files/8ADG5025.FIT
+https://github.com/mytourbook/mytourbook/raw/refs/heads/main/bundles/net.tourbook.tests/src/test/device/garmin/fit/files/Bye_bye_Silverton.fit
+https://github.com/mytourbook/mytourbook/raw/refs/heads/main/bundles/net.tourbook.tests/src/test/device/garmin/fit/files/ConeyLakeMove_2020_05_23_08_55_42_Trail+running.fit
+https://github.com/mytourbook/mytourbook/raw/refs/heads/main/bundles/net.tourbook.tests/src/test/device/garmin/fit/files/Hardrock_100_Start_Finish.fit
+https://github.com/mytourbook/mytourbook/raw/refs/heads/main/bundles/net.tourbook.tests/src/test/ui/views/rawData/files/Move_2011_07_03_08_01_04_Trail+running.fit
+https://github.com/mytourbook/mytourbook/raw/refs/heads/main/bundles/net.tourbook.ui.tests/src/test/files/2022-02-04-152754-UBERDROID8A2F-9-0.fit
 https://github.com/nbr23/python-fitparse/raw/refs/heads/master/tests/files/2013-02-06-12-11-14.fit
 https://github.com/nbr23/python-fitparse/raw/refs/heads/master/tests/files/2015-10-13-08-43-15.fit
 https://github.com/nbr23/python-fitparse/raw/refs/heads/master/tests/files/20170518-191602-1740899583.fit
