@@ -1,0 +1,1046 @@
+Message Name	Field Def #	Field Name	Field Type	Array	Components	Scale	Offset	Units	Bits	Accumulate	Ref Field Name	Ref Field Value	Comment	Products:	EXAMPLE	Global Message Number
+file_id																0
+	6	manufacturer_partner	uint16													
+	7	original_time_created	date_time					seconds								
+capabilities																1
+	24	wifi	enum													
+	26	audio_prompts	uint32z													
+device_settings																2
+	3	summer_time_mode	enum													
+	8	alarms_time	uint16	[N]				minutes								
+	9	alarms_mode	enum	[N]												
+	10	key_tones	enum													
+	11	message_tones	enum													
+	13	backlight_timeout	uint8					seconds								
+	14	backlight	uint8					percent								
+	15	contrast	uint8					percent								
+	21	gnss_mode	enum													
+	23	map_orientation	enum													
+	25	map_locations	enum													
+	26	timezone	enum													
+	28	alarms_enabled	enum	[N]												
+	30	map_auto_zoom	enum													
+	35	start_of_week	enum													
+	38	wifi_auto_upload_enabled	enum													
+	41	recovery_advice	enum													
+	42	auto_max_hr	enum													
+	45	auto_goal	enum													
+	48	recording_interval	enum													
+	52	course_navigation	enum													
+	53	off_course_warning	enum													
+	75	course_segments	enum													
+	76	map_show_track	enum													
+	77	map_track_color	enum													
+	81	backlight_keys	enum													
+	82	backlight_alerts	enum													
+	83	backlight_gesture	enum													
+	87	do_not_disturb_sleep	enum													
+	92	alarms_repeat	uint32z	[N]												
+	96	lock_screen	enum													
+	98	wifi_enabled	enum													
+	101	goal_notification	enum													
+	108	detect_max_hr	enum													
+	116	lock_on_road	enum													
+	117	map_show_details	enum													
+	124	current_activity_backlight_brightness	uint8					percent								
+	125	current_activity_backlight_timeout	uint8					seconds								
+	126	current_activity_backlight_keys	enum													
+	127	current_activity_backlight_alerts	enum													
+	128	current_activity_backlight_gesture	enum													
+	129	marine_chart_mode	enum													
+	132	marine_symbols	enum													
+	133	software_auto_update	enum													
+	137	show_segments	enum													
+	138	hourly_alert	enum													
+	139	turn_guidance	enum													
+	141	spo2_mode	uint8													
+	142	low_spo2_threshold	uint8					percent								
+	143	sedentary_hr_threshold	uint8					beats per minute								
+	144	activity_true_up	enum													
+	148	map_show_contour	enum													
+	151	low_spo2_alert	enum													
+	153	hydration_units	enum													
+	158	hydration_goal	enum													
+	163	hr_low_alert	enum													
+	164	hr_low_alert_limit	uint8					beats per minute								
+	167	map_theme	string													
+	168	stealth_mode	enum													
+	171	swim_units	enum													
+	176	airplane_mode	enum													
+	177	sleep_backlight_brightness	uint8					percent								
+	178	sleep_backlight_timeout	uint8					seconds								
+	179	sleep_backlight_mode	enum													
+	180	sleep_backlight_alerts	enum													
+	181	sleep_backlight_gesture	enum													
+	186	always_on_display	enum													
+	187	current_activity_always_on_display	enum													
+	188	sleep_always_on_display	enum													
+	189	screen_brightness	enum													
+	190	current_activity_screen_brightness	enum													
+	191	sleep_screen_brightness	enum													
+	192	touch_enabled	enum													
+	193	touch_enabled_activity	enum													
+	194	touch_enabled_sleep	enum													
+	196	battery_estimates	uint8z													
+	198	haptics	enum													
+	215	course_points	enum													
+	216	map_color	enum													
+	217	gnss_default_mode	enum													
+	221	font_mode	enum													
+	231	touch_type_general	enum													
+	232	touch_type_activity	enum													
+	235	map_relief	enum													
+	237	stress_alert	enum													
+	239	rest_notification	enum													
+user_profile																3
+	24	year_of_birth	uint8			1	-1900									
+	26	pressure_setting	enum													
+	34	recovery_time	uint16													
+	35	recovery_time_start	date_time					seconds								
+	37	lactate_threshold_speed	uint16			10	0	kilometer per hour								
+	41	time_last_lthr_running	date_time					seconds								
+	42	time_last_lthr_cycling	date_time					seconds								
+	44	birth_day	uint8													
+	45	birth_month	uint8z													
+	53	moderate_activity	uint8													
+	54	vigorous_activity	uint8													
+	58	golf_distance	enum													
+	62	gender_x	enum													
+	65	running_coach	enum													
+	66	cycling_coach	enum													
+	67	user_name	string													
+bike_profile																6
+	35	color	uint8	[3]												
+sport																12
+	5	active	enum													
+	10	color	uint8	[3]												
+	11	high_contrast	enum													
+	15	popularity_routing	enum													
+	17	navigation_prompt	enum													
+	18	sharp_bend_warnings	enum													
+	21	workout_videos	enum													
+	22	high_traffic_road_warnings	enum													
+	23	road_hazard_warnings	enum													
+	24	unpaved_road_warnings	enum													
+training_settings																13
+	1	virtual_partner	enum													
+	2	virtual_partner_pace	uint16			1000	0	meter per second								
+	3	auto_lap_mode	enum													
+	4	auto_lap_distance	uint32			100	0	meter								
+	5	auto_lap_latitude	sint32					semicircles								
+	6	auto_lap_longitude	sint32					semicircles								
+	7	auto_pause	enum													
+	8	auto_pause_threshold	uint16			1000	0	meter per second								
+	9	recording_mode	enum													
+	11	data_screens	uint8													
+	12	power_averaging	enum													
+	13	cadence_averaging	enum													
+	14	display_pace	enum													
+	15	auto_scroll	enum													
+	18	timer_start_prompt	enum													
+	22	pool_length	uint16			100	0	meter								
+	23	manual_lap	enum													
+	24	extended_power_save_timeout	enum													
+	25	auto_sleep	enum													
+	27	satellites	enum													
+	29	pool_length_unit	enum													
+	30	target_mode	enum													
+	35	speed_3_d	enum													
+	36	distance_3_d	enum													
+	37	auto_climb	enum													
+	40	auto_climb_invert_colors	enum													
+	41	auto_climb_vertical_speed	sint32			27.778	0	meter per hour								
+	42	auto_climb_mode_switch	uint8					seconds								
+	46	lap_key	enum													
+	50	workout_target_alerts	enum													
+	51	timer_start_auto	enum													
+	52	timer_start_speed	uint16			1000	0	meter per second								
+	53	segment_alerts	enum													
+	54	autolap_time	uint32			1000	0	seconds								
+	55	proximity_alerts	enum													
+	57	countdown_start	enum													
+	60	count_repetitions	enum													
+	63	climb_pro	enum													
+	67	track_consumption	enum													
+	69	bottle_size	uint16					milliliter								
+	70	volume	enum													
+	76	incident_detection_enabled	enum													
+	78	climb_pro_detection	enum													
+	79	breathwork_vibration	enum													
+	80	minimum_ride_duration	uint16					seconds								
+	86	lane_number	uint8													
+	87	broadcast_heart_rate	enum													
+	93	self_evaluation	enum													
+	95	flashlight	enum													
+	96	flashlight_mode	enum													
+	97	flashlight_speed	enum													
+	98	flashlight_color	enum													
+	102	speed_pro	enum													
+	103	touch	enum													
+	105	autopause	enum													
+	106	record_temperature	enum													
+	107	distance_unit	enum													
+	108	speed_unit	enum													
+	109	running_power_mode	enum													
+	110	account_for_wind	enum													
+	111	climb_pro_mode	enum													
+	117	climb_detection	enum													
+	119	climb_pro_terrain	enum													
+	122	big_numbers_mode	enum													
+	123	target_repetitions	uint32													
+	124	ask_pool_size	enum													
+	125	jump_mode	enum													
+	127	detect_track	enum													
+	128	pack_weight	uint16			10	0	kilogram								
+	129	pack_mode	enum													
+	130	touch_lock	enum													
+	131	audio_prompt_output	enum													
+data_screen																14
+	1	enabled	enum													
+	3	field_count	uint8													
+	4	zone_fields	uint8	[4]												
+	7	data_fields	uint16	[10]												
+	8	layout	enum													
+	9	position	uint8													
+	10	screen_type	enum													
+	12	hidden	enum													
+alert																16
+	1	metric	enum													
+	2	value	uint32													
+	3	status	enum													
+	4	message	string													
+	5	repeat	enum													
+range_alert																17
+	1	metric	enum													
+	2	low_status	enum													
+	3	low_value	uint16													
+	4	high_status	enum													
+	5	high_value	uint16													
+	12	low_alert	enum													
+	13	high_alert	enum													
+session																18
+	109	sport_profile_index	uint8													
+	151	total_sets	uint16													
+	152	volume	uint32			100	0	kilogram								
+	157	floors_ascended	uint16					floors								
+	158	floors_descended	uint16					floors								
+	177	calories_consumed	uint16					kcal								
+	178	estimated_sweat_loss	uint16					milliliter								
+	179	fluid_consumed	uint16					milliliter								
+	185	execution_score	uint8					percent								
+	188	primary_benefit	enum													
+	189	start_stress	uint16			100	0									
+	190	end_stress	uint16			100	0									
+	201	max_stress	uint8													
+	202	recovery_heart_rate	uint8					beats per minute								
+	203	battery_gain	uint32					seconds								
+	204	solar_intensity	uint16			100	0	percent								
+	205	beginning_potential	uint8					percent								
+	206	ending_potential	uint8					percent								
+	207	min_stamina	uint8					percent								
+	212	wind_data	enum													
+	215	beginning_body_battery	uint8					percent								
+	216	ending_body_battery	uint8					percent								
+	219	unpaved_surface	uint8					percent								
+	220	pack_weight	uint16			10	0	kilogram								
+	221	total_equivalent_distance	uint32					meter								
+	222	step_speed_loss	uint16			100	0	centimeter per second								
+	223	step_speed_loss_percentage	uint16			100	0	percent								
+	224	avg_force	sint32			1000	0	newton								
+	225	max_force	sint32			1000	0	newton								
+	226	normalized_force	sint32			1000	0	newton								
+lap																19
+	125	floors_ascended	uint16					floors								
+	126	floors_descended	uint16					floors								
+	145	est_sweat_loss	uint16					milliliter								
+	152	execution_score	uint8					percent								
+	163	unpaved	uint8					percent								
+	164	step_speed_loss_distance	uint16			100	0	centimeter per second								
+	165	step_speed_loss_percentage	uint16			100	0	percent								
+	166	avg_force	sint32			1000	0	newton								
+	167	max_force	sint32			1000	0	newton								
+	168	normalized_force	sint32			1000	0	newton								
+record																20
+	61	altitude_alt	uint16			5	500	meter								
+	66	reference_pressure	sint16			1	-101325	pascal								
+	90	performance_condition	sint8													
+	100	position_lat_alt	sint32					semicircles								
+	101	position_long_alt	sint32					semicircles								
+	107	position_status	enum													
+	121	total_ascent	uint16					meter								
+	122	total_descent	uint16					meter								
+	133	spo2	uint8					percent								
+	136	wrist_heart_rate	uint8					beats per minute								
+	137	stamina_potential	uint8					percent								
+	138	stamina	uint8					percent								
+	140	grade_adjusted_speed	uint32			1000	0	meter per second								
+	141	calorie_rate	uint16			10	0	kcal per minute								
+	143	body_battery	uint8					percent								
+	144	external_heart_rate	uint8					beats per minute								
+	146	step_speed_loss_distance	uint16			100	0	centimeter per second								
+	147	step_speed_loss_percentage	uint16			100	0	percent								
+	148	force	sint32			1000	0	newton								
+event																21
+	16	activity_subtype	enum													
+device_used																22
+	0	speed	uint8													
+	1	distance	uint8													
+	2	cadence	uint8													
+	3	elevation	uint8													
+	4	heart_rate	uint8													
+	5	calorie	enum													
+	6	power	uint8													
+device_info																23
+	9	reception_quality	uint8					percent								
+	24	ant_id	uint32z													
+	29	ble_address	uint8	[6]												
+workout																26
+	9	duration_type	enum													
+	10	duration_value	uint32													
+	12	num_sessions	uint16													
+	13	transitions	enum													
+	20	workout_index	uint16													
+	21	time	uint32			1000	0	seconds								
+	22	distance	uint32			100	0	meter								
+	23	time_flag	enum													
+	24	distance_flag	enum													
+workout_step																27
+	18	skip_last_recover	enum													
+	26	exercise_weight_percent	uint8													
+	27	exercise_weight_type	uint16													
+	30	swim_drill_type	enum													
+	31	workout_index	uint16													
+	35	exercise_load_category	uint8													
+location																29
+	0	name	string													
+	1	position_lat	sint32					semicircles								
+	2	position_long	sint32					semicircles								
+	3	symbol	uint16													
+	4	altitude	uint16			5	500	meter								
+	5	enhanced_altitude	uint16					meter								
+	6	description	string													
+course_point																32
+	11	label	string													
+	13	cutoff	uint32			1000	0	seconds								
+	14	notes	string													
+	15	rest_duration	uint32			1000	0	seconds								
+totals																33
+	10	activity_profile	string													
+activity																34
+	8	name	string													
+file_creator																49
+	2	name	string													
+monitoring																55
+	35	total_ascent	uint32			1000	0	meter								
+	36	total_descent	uint32			1000	0	meter								
+	37	moderate_activity	uint16					minutes								
+	38	vigorous_activity	uint16					minutes								
+map_layer																70
+	1	details	enum													
+	2	relief_shading	enum													
+	11	orientation	enum													
+	13	user_locations	enum													
+	14	auto_zoom	enum													
+	15	guide_text	enum													
+	16	track_log	enum													
+	18	map_track_color	enum													
+	20	courses	enum													
+	22	marine_chart_mode	enum													
+	23	spot_soundings	enum													
+	24	light_sectors	enum													
+	25	marine_symbol_set	enum													
+	27	segments	enum													
+	28	contours	enum													
+	29	map_theme	string													
+	31	popularity	enum													
+	33	map_color	enum													
+routing																71
+	0	routing_mode	enum													
+	1	calculation_method	enum													
+	2	lock_on_road	enum													
+	3	avoidances	uint16													
+	4	route_recalculation	enum													
+	5	type	enum													
+	7	course_recalculation	enum													
+user_metrics																79
+	0	vo2_max	uint16			292.571428571429	0	ml kg min								
+	1	age	uint8					years								
+	2	height	uint8			100	0	meter								
+	3	weight	uint16			10	0	kilogram								
+	4	gender	enum													
+	5	activity_score	enum					percent								
+	6	max_hr	uint8					beats per minute								
+	8	remaining_recovery_time	uint16					minutes								
+	9	monthly_load	uint16													
+	10	minimal_hr	uint8					beats per minute								
+	11	lactate_threshold_heart_rate	uint16					beats per minute								
+	12	lactate_threshold_power	uint16					watt								
+	13	lactate_threshold_speed	uint16			10	0	kilometer per hour								
+	15	beginning_body_battery	uint8					percent								
+	16	start_of_activity	uint32					seconds								
+	19	first_vo2_max	sint32			18724.5714285714	0	ml kg min								
+	23	time_zone_offset	sint16					minutes								
+	25	wake_time	uint32					seconds								
+	26	sleep_time	uint32					seconds								
+	29	running_max_distance	uint32			100	0	meter								
+	30	cycling_max_distance	uint32			100	0	meter								
+	31	stamina_potential_load	uint8					percent								
+	32	stamina_potential_distance	uint8					percent								
+	33	recovery_minutes	uint16					minutes								
+	35	end_of_previous_activity	uint32					seconds								
+	38	sleep_need	uint16					minutes								
+	39	wake_up_time	date_time					seconds								
+	40	wheelchair	enum													
+	44	sport	enum													
+open_water_event																89
+	0	event_type	enum													
+	1	fractional_timestamp	uint16			32768	0	seconds								
+	5	swim_stroke	uint32													
+monitoring_info																103
+	7	cycles_goal	uint32			2	0	cycles								
+battery																104
+	0	battery_voltage	uint16			1000	0	volt								
+	1	current	sint16			1000	0	ampere								
+	3	temperature	sint8					celsius								
+best_effort																113
+	1	sport	enum													
+	2	distance	uint32			100	0	meter								
+	3	time	uint32			1000	0	seconds								
+	4	start_time	date_time					seconds								
+	5	personal_record	enum													
+personal_record																114
+	0	metric	uint16													
+	1	sport	enum													
+	2	distance	uint32			100	0	meter								
+	5	record	uint32													
+weather_conditions																128
+	15	dew_point	sint8													
+	16	uv_index	float32													
+	17	air_quality	enum													
+	18	atmospheric_pressure	uint32					pascal								
+weather_alert																129
+	5	position_lat	sint32					semicircles								
+	6	position_long	sint32					semicircles								
+files																138
+	1	directory	string													
+	2	file	string													
+	3	flags	uint8z													
+physiological_metrics																140
+	0	avg_hr	uint8					beats per minute								
+	1	new_hr_max	uint8					beats per minute								
+	4	aerobic_effect	uint8			10	0									
+	5	energy_expenditure	sint32			65536	0	kcal per minute								
+	6	total_energy_expenditure	sint32			65536	0	kcal								
+	7	met_max	sint32			18724.5714285714	0	ml kg min								
+	8	met_max_minutes	sint8					minutes								
+	9	recovery_time	uint16					minutes								
+	11	sport	enum													
+	12	sub_sport	enum													
+	13	minimal_hr	uint8					beats per minute								
+	14	lactate_threshold_heart_rate	uint16					beats per minute								
+	15	lactate_threshold_power	uint16					watt								
+	16	lactate_threshold_speed	uint16			10	0	kilometer per hour								
+	17	ending_performance_condition	sint8													
+	20	anaerobic_effect	uint8			10	0									
+	21	respiratory_rate	sint32			65536	0									
+	25	ending_body_battery	uint8					percent								
+	29	first_vo2_max	sint32			18724.5714285714	0	ml kg min								
+	30	avg_temperature	sint8					celsius								
+	31	avg_humidity	sint8													
+	32	avg_altitude	sint32			65536	0	meter								
+	35	total_elapsed_time	uint32			1000	0	seconds								
+	36	total_distance	uint32			100	0	meter								
+	41	primary_benefit	enum													
+	48	local_timestamp	local_date_time					seconds								
+	49	ending_load_stamina	uint8					percent								
+	50	ending_distance_stamina	uint8					percent								
+	53	hr_max	uint8					beats per minute								
+	57	ascent_slow_minutes	uint16					minutes								
+	58	ascent_fast_minutes	uint16					minutes								
+	60	total_ascent	uint16					meter								
+	61	total_descent	uint16					meter								
+	62	average_power	uint16					watt								
+	63	average_heart_rate	uint8					beats per minute								
+	64	user_weight	uint8					kilogram								
+	69	time_5k	uint16					seconds								
+	70	time_10k	uint16					seconds								
+	71	time_half_marathon	uint16					seconds								
+	72	time_full_marathon	uint16					seconds								
+epo_status																141
+	0	status	enum													
+	1	start_time	date_time					seconds								
+	2	end_time	date_time					seconds								
+	4	hint_position_lat	sint32					semicircles								
+	5	hint_position_long	sint32					semicircles								
+multisport_settings																143
+	0	name	string													
+	1	transitions	enum													
+	2	number_of_activities	uint8													
+	3	auto_pause	enum													
+	4	alerts	enum													
+	5	auto_lap	enum													
+	6	power_save_timeout	enum													
+	7	auto_scroll	enum													
+	8	repeat	enum													
+	10	sport_change	enum													
+multisport_activity																144
+	0	sport	enum													
+	1	sub_sport	enum													
+	2	lock_device	enum													
+	3	name	string													
+sensor_settings																147
+	0	ant_id	uint32z													
+	2	name	string													
+	3	status	enum													
+	6	wheel_calibration	enum													
+	7	power_calibration	enum													
+	9	crank_length	uint8			2	-110	millimeter								
+	10	wheel_size_manual	uint16					millimeter								
+	11	calibration_factor	uint16			10	0									
+	17	gears_front_count	uint8z													
+	18	gears_front	uint8z	[4]												
+	19	gears_rear_count	uint8z													
+	20	gears_rear	uint8z	[12]												
+	21	wheel_size_auto	uint16					millimeter								
+	25	gear_ratio	uint16			100	0									
+	26	bike_weight	uint16			10	0	kilogram								
+	32	product	uint16													
+	33	manufacturer	uint16													
+	34	firmware_version	uint16													
+	41	cycling_beam_focus	uint8	[7]												
+	43	cycling_dynamics	enum													
+	45	use_for_speed	enum													
+	46	use_for_distance	enum													
+	49	cycling_beam_intensity	uint8													
+	50	bluetooth_address	uint8	[6]												
+	51	connection_type	enum													
+	52	sensor_type	enum													
+	55	chain_weight	uint16					gramm								
+	56	chain_length	uint16					millimeter								
+	57	span_length	uint16					millimeter								
+	58	sensor_location	enum													
+	74	pressure_units	enum													
+	75	pressure_rated	uint16													
+	76	pressure_reserve	uint16													
+	77	pressure_volume	uint16													
+	78	used_for_diving	enum													
+	90	subwave	uint8z	[7]												
+	91	product_name	string													
+	93	uuid	uint8	[16]												
+metronome																152
+	0	enabled	enum													
+	1	beats_per_minute	uint8					beats per minute								
+	2	alert_frequency	uint8													
+	3	sound_and_vibe	enum													
+watchface_settings																159
+	5	accent_color_8	uint8													
+	7	background	byte													
+	13	accent_color_16	uint16													
+gps_metadata																160
+	8	epv	uint16													
+	9	eph	uint16													
+	10	epe	uint16													
+	11	vdop	uint16													
+	12	hdop	uint16													
+connect_iq_field																170
+	1	app_id	uint8	[N]												
+	2	data_field	uint32													
+	100	screen_id	uint8													
+	101	field_bits	byte													
+clubs																173
+	2	club_type	enum													
+	3	club_nickname	string													
+	6	average_distance	uint32			100	0	meter								
+	19	max_distance	uint32			100	0	meter								
+ohr_settings																188
+	1	sampling_rate	uint16					seconds								
+	2	transmit_hr	enum													
+	3	transmit_hr_activity	enum													
+	4	swimming	enum													
+waypoint_handling																189
+	0	action	enum													
+golf_course																190
+	0	course_id	uint32													
+	1	name	string													
+	2	local_time	uint32					seconds								
+	3	start_time	date_time					seconds								
+	4	end_time	date_time					seconds								
+	8	out	uint8													
+	9	in	uint8													
+	10	total	uint8													
+	11	tee	string													
+	12	slope	uint8													
+	21	rating	float32													
+golf_stats																191
+	0	name	string													
+	2	out	uint8													
+	3	in	uint8													
+	4	total	uint16													
+	7	fairway_hit	uint8													
+	8	gir	uint8													
+	9	putts	uint8													
+score																192
+	1	hole_number	uint8													
+	2	score	sint8													
+	5	putts	sint8													
+	6	fairway	enum													
+hole																193
+	0	hole_number	uint8													
+	1	distance	uint32			100	0	meter								
+	2	par	uint8													
+	3	handicap	uint8													
+	4	position_lat	sint32					semicircles								
+	5	position_long	sint32					semicircles								
+shot																194
+	1	hole_number	uint8													
+	2	start_position_lat	sint32					semicircles								
+	3	start_position_long	sint32					semicircles								
+	4	end_position_lat	sint32					semicircles								
+	5	end_position_long	sint32					semicircles								
+	7	club_type	uint32													
+incident_detection																195
+	0	latitude	sint32					semicircles								
+	1	longitude	sint32					semicircles								
+true_up																198
+	0	snapshot_timestamp	date_time					seconds								
+	1	calories	uint16					kcal								
+	2	distance	uint32					centimeter								
+	3	steps	uint32					steps								
+	4	active_calories	uint16					kcal								
+	6	ascent	uint32					millimeter								
+	7	descent	uint32					millimeter								
+	10	resting_calories	uint16					kcal								
+	11	snapshot_local_timestamp	local_date_time					seconds								
+	14	resting_heart_rate_today_timestamp	date_time					seconds								
+	15	resting_heart_rate	uint8					beats per minute								
+	16	resting_heart_rate_today	uint8					beats per minute								
+	22	body_battery_gain	uint8													
+	23	body_battery_loss	uint8													
+	24	body_battery_max	uint8													
+	25	body_battery_initial	uint8													
+	32	stress	sint16													
+	33	stress_resting	uint32					seconds								
+	34	stress_low	uint32					seconds								
+	35	stress_medium	uint32					seconds								
+	36	stress_high	uint32					seconds								
+bike_radar_profile																203
+	0	vehicles_display	enum													
+	1	halo_display	enum													
+	2	tone	enum													
+settings_changelog																217
+	0	message_number	uint16													
+	2	field_number	uint8													
+alarm_settings																222
+	0	time	uint16					minutes								
+	1	repeat	uint32z													
+	2	enabled	enum													
+	3	sound	enum													
+	4	backlight	enum													
+	5	time_created	date_time					seconds								
+	6	message	string													
+	7	snooze	uint8													
+	8	label	enum													
+	11	time_updated	date_time					seconds								
+	12	smart_wake	enum													
+stress_level																227
+	2	average_stress	sint8													
+	3	body_energy	sint8													
+manual_stress																228
+	0	stress_level_value	sint16													
+	1	stress_level_time	date_time					seconds								
+max_met_data																229
+	1	met_max	sint32			65536	0									
+	3	fitness_age	sint8					years								
+navigation_alert																231
+	0	distance	float32	[N]												
+	1	time	sint32	[N]												
+	2	status	enum	[N]												
+	3	alert	enum	[N]												
+load_history																232
+	5	weekly_load	uint16													
+	6	target_load_min	uint16													
+	7	target_load_max	uint16													
+metrics_time																241
+	0	local_timestamp	local_date_time					seconds								
+music_info																243
+	0	start_time	date_time					seconds								
+	2	title	string													
+	3	artist	string													
+	4	genre	string													
+	5	duration	uint16					seconds								
+dive_settings																258
+	31	compass	enum													
+	38	subwave_location	enum													
+	39	subwave_messaging	enum													
+	41	hot_key_1	enum													
+	42	hot_key_2	enum													
+	43	hot_key_3	enum													
+	44	hot_key_4	enum													
+	45	hot_key_5	enum													
+	46	hot_key_6	enum													
+	47	hot_key_7	enum													
+	48	hot_key_8	enum													
+	49	hot_key_9	enum													
+	50	screen_brightness	enum													
+	53	always_on_display_brightness	enum													
+	55	pool_length	uint16													
+	56	pool_unit	enum													
+	57	deco_lockout	enum													
+	60	subwave_favorites	enum	[30]												
+navigation_event																261
+	0	type	enum													
+	1	latitude	sint32					semicircles								
+	2	longitude	sint32					semicircles								
+	3	data	uint32													
+dive_alarm																262
+	13	intensity	enum													
+audio_prompts																266
+	1	lap_alerts	enum													
+	10	dialect	enum													
+	12	activity_alerts	enum													
+	18	workout_alerts	enum													
+sleep_data_info																273
+	1	sample_length	uint16					seconds								
+	2	local_timestamp	local_date_time					seconds								
+	4	version	string													
+sleep_data_raw																274
+	0	bytes	byte													
+monitoring_altitude																279
+	0	altitude	uint32			5	500	meter								
+acclimatization																281
+	4	acclimatization_altitude	uint16													
+	11	altitude	uint16													
+daily_altitude																282
+	1	altitude	sint32			65536	0									
+metric_recovery																284
+	0	recovery_minutes	uint16					minutes								
+	1	recovery_start	date_time					seconds								
+environment																288
+	0	temperature	sint8					celsius								
+	1	humidity	sint8					percent								
+training_balance_results																294
+	0	monthly_load_aerobic_low	sint32			65536	0									
+	1	monthly_load_aerobic_high	sint32			65536	0									
+	2	monthly_load_anaerobic	sint32			65536	0									
+	7	monthly_load_anaerobic_target_min	uint16													
+	8	monthly_load_anaerobic_target_max	uint16													
+mtb_cx																309
+	1	grit_flow_jump_recording	enum													
+	2	jump_alerts	enum													
+race																310
+	1	name	string													
+	3	goal_time	uint32			1000	0	seconds								
+	4	goal_speed	uint16			1000	0	meter per second								
+	5	distance	uint32			100	0	meter								
+	6	split_count	uint16													
+	7	split_distance	uint32			100	0	meter								
+split_time																311
+	0	time	uint32			1000	0	seconds								
+	1	distance	uint32			100	0	meter								
+	2	split_time	uint32			1000	0	seconds								
+	3	split_distance	uint32			100	0	meter								
+	4	split_speed	uint16			1000	0	meter per second								
+	9	start_position_lat	sint32					semicircles								
+	10	start_position_long	sint32					semicircles								
+	11	end_position_lat	sint32					semicircles								
+	12	end_position_long	sint32					semicircles								
+	13	start_altitude	uint32			5	500	meter								
+	14	end_altitude	uint32			5	500	meter								
+split																312
+	7	start_distance	uint32			100	0	meter								
+	75	paceband_target_time	uint32			1000	0	seconds								
+	76	paceband_target_distance	uint32			100	0	meter								
+	77	paceband_target_speed	uint16			1000	0	meter per second								
+	82	power_guidance_target	uint16					watt								
+	92	climbpro_rating	uint32													
+	95	max_stress	uint16													
+	101	off_course_duration	uint32			1000	0	seconds								
+	102	max_jump_hang_time	uint32			1000	0	seconds								
+	103	max_jump_distance	float32					meter								
+	105	pedaling_time	uint32			1000	0	seconds								
+	106	cruising_time	uint32			1000	0	seconds								
+	107	stamina_potential_start	uint8					percent								
+	108	stamina_potential_end	uint8					percent								
+	109	stamina_available_minimum	uint8					percent								
+	130	step_speed_loss	uint16			100	0	centimeter per second								
+	131	step_speed_loss_percentage	uint16			100	0	percent								
+	132	avg_descent_speed	uint16			1000	0	meter per second								
+	133	mtb_trail_rating	enum													
+	135	avg_force	sint32			1000	0	newton								
+	136	max_force	sint32			1000	0	newton								
+	140	normalized_force	sint32			1000	0	newton								
+split_summary																313
+	61	paceband_target_time	uint32			1000	0	seconds								
+	62	paceband_target_distance	uint32			100	0	meter								
+	63	paceband_target_speed	uint16			1000	0	meter per second								
+	73	max_stress	uint16													
+	76	split_score_card_index	uint16													
+	83	step_speed_loss	uint16			100	0	centimeter per second								
+	84	step_speed_loss_percentage	uint16			100	0	percent								
+solar_charge																318
+	0	percent	uint16			100	0									
+	1	status	uint16													
+	3	gain	uint32					milliseconds								
+tank_update																319
+	2	depth	uint32					millimeter								
+power_mode																321
+	0	low_battery_alert	uint32					seconds								
+	1	default_mode	sint32													
+	3	auto_enable_time	uint32					seconds								
+gps_event																326
+	0	event_type	uint32													
+	1	data	uint32													
+gnss_initialization																329
+	0	position_lat	sint32					semicircles								
+	1	position_long	sint32					semicircles								
+	2	age	uint32					seconds								
+	4	altitude	float32					meter								
+ecg_summary																336
+	1	categorization	enum													
+	2	raw_sample_rate	float32													
+	3	smooth_sample_rate	float32													
+	4	ecg_timestamp	date_time					seconds								
+	5	local_timestamp	uint32					seconds								
+	7	average_heart_rate	float32					beats per minute								
+	11	sample_time	uint16					seconds								
+	12	sdrr_hrv	uint8					milliseconds								
+ecg_raw_sample																337
+	0	value	float32													
+ecg_smooth_sample																338
+	0	value	float32													
+race_prediction																339
+	0	local_timestamp	local_date_time					seconds								
+	1	time_5k	uint16					seconds								
+	2	time_10k	uint16					seconds								
+	3	time_half_marathon	uint16					seconds								
+	4	time_full_marathon	uint16					seconds								
+power_guide																352
+	1	name	string													
+	2	splits	uint16													
+	4	created	date_time					seconds								
+	7	effort_target	float32													
+	8	air_factor	float32													
+	9	rolling_resistance	float32													
+	10	rider_weight	uint16			100	0	kilogram								
+	11	equipment_weight	uint16			100	0	kilogram								
+	14	duration_target	uint32			1000	0	seconds								
+	15	ftp_target	float32					percent								
+power_guide_split																353
+	1	power_target	uint32					percent								
+	2	distance	uint32			100	0	meter								
+	3	duration_target	uint32			1000	0	seconds								
+	6	start_latitude	sint32					semicircles								
+	7	start_longitude	sint32					semicircles								
+	8	end_latitude	sint32					semicircles								
+	9	end_longitude	sint32					semicircles								
+	10	elevation_change	sint32			100	0	meter								
+hot_keys																354
+	0	hot_key_1	enum													
+	1	hot_key_2	enum													
+	2	hot_key_3	enum													
+	3	hot_key_4	enum													
+	4	hot_key_5	enum													
+	5	hot_key_6	enum													
+	6	hot_key_7	enum													
+	7	hot_key_8	enum													
+functional_metrics																356
+	4	functional_threshold_power	uint16					watt								
+	7	running_lactate_threshold_power	uint16					watt								
+	8	running_lactate_threshold_hr	uint8					beats per minute								
+	9	cycling_lactate_threshold_hr	uint8					beats per minute								
+true_up_recovery																357
+	0	stamina_potential_load	uint8					percent								
+	1	stamina_potential_distance	uint8					percent								
+	2	recovery_time	uint16					minutes								
+race_event																358
+	1	event_id	string													
+	2	start_time	date_time					seconds								
+	3	local_timestamp	uint32					seconds								
+	4	name	string													
+	5	location	string													
+	6	start_point_lat	sint32					semicircles								
+	7	start_point_long	sint32					semicircles								
+	10	duration_value	uint32													
+	11	duration_units	enum													
+	12	target_value	uint32													
+	13	target_units	enum													
+	24	city	string													
+	26	country	string													
+true_up_movement																368
+	1	snapshot_timestamp	date_time					seconds								
+	2	snapshot_local_timestamp	local_date_time					seconds								
+	3	steps	uint32					steps								
+	4	ascent	uint32					millimeter								
+	5	descent	uint32					millimeter								
+	6	total_activity	uint16					minutes								
+	7	moderate_activity	uint16					minutes								
+	8	vigorous_activity	uint16					minutes								
+	9	active_calories	uint16					kcal								
+training_readiness																369
+	0	training_readiness	uint8					percent								
+	1	level	enum													
+	4	sleep_score	uint8													
+	7	recovery_time	uint16					minutes								
+	18	tracked_sleep	enum													
+	20	local_timestamp	uint32					seconds								
+	21	weekly_hrv_average	uint16			128	0	milliseconds								
+	22	load_acute	uint16													
+morning_report																373
+	0	status	enum													
+	2	theme	enum													
+training_load																378
+	3	training_load_acute	uint16													
+	4	training_load_chronic	uint16													
+	5	daily_acute_chronic_workload_ratio	uint8			10	0									
+sleep_schedule																379
+	0	bed_time	uint32					seconds								
+	1	wake_time	uint32					seconds								
+sleep_restless_moments																382
+	0	sleep_start	uint32					seconds								
+	1	restless_moments_count	uint8													
+	2	durations	uint8	[N]				seconds								
+daily_sleep																384
+	0	min_heart_rate	uint8					beats per minute								
+	2	sleep_score	uint8					percent								
+	3	awake_duration	uint16					minutes								
+	8	local_timestamp	local_date_time					seconds								
+	9	sleep_start_time	date_time					seconds								
+	10	sleep_start_timezone_offset	sint16					minutes								
+	11	sleep_end_time	date_time					seconds								
+	12	sleep_end_timezone_offset	sint16					minutes								
+	14	sleep_start_body_battery	uint8					percent								
+	15	sleep_end_body_battery_yesterday	uint8					percent								
+	16	sleep_end_body_battery	uint8					percent								
+	20	sleep_duration_score	sint8													
+	22	sleep_pressure	sint16													
+	23	sleep_recovery_score	sint8													
+	24	sleep_awake_duration	uint16					minutes								
+	25	sleep_quality_score	sint8													
+jet_lag_configuration																392
+	0	status	enum													
+cpe_status																394
+	0	status	enum													
+	1	start_time	date_time					seconds								
+	2	end_time	date_time					seconds								
+skin_temp_raw																397
+	1	deviation	float32													
+skin_temp_overnight																398
+	3	calibrated_days	uint8													
+hrv_stats																401
+	0	local_timestamp	local_date_time					seconds								
+	2	sleep	uint16					milliseconds								
+	3	target_min	uint16					milliseconds								
+	4	target_max	uint16					milliseconds								
+hill_score																402
+	0	hill_score	uint8													
+	1	hill_strength	uint8													
+	2	hill_endurance	uint8													
+	3	trend	enum													
+	4	level	enum													
+endurance_score																403
+	0	endurance_score	uint16													
+	1	level	enum													
+	3	lower_bound_intermediate	uint16													
+	4	lower_bound_trained	uint16													
+	5	lower_bound_well_trained	uint16													
+	6	lower_bound_expert	uint16													
+	7	lower_bound_superior	uint16													
+	8	lower_bound_elite	uint16													
+	9	gauge_lower_limit	uint16													
+	10	gauge_upper_limit	uint16													
+endurance_contributor																404
+	0	sport	enum													
+	1	sub_sport	enum													
+	3	contribution	uint16			100	0									
+sleep_demand																410
+	0	normal	uint16					minutes								
+	1	demand	uint16					minutes								
+	7	start	uint16					minutes								
+	8	end	uint16					minutes								
+sleep_summary																411
+	0	sleep_score	uint8													
+	1	deep_duration	uint16					minutes								
+	2	light_duration	uint16					minutes								
+	3	rem_duration	uint16					minutes								
+	4	awake_duration	uint16					minutes								
+	5	unmeasurable_duration	uint16					minutes								
+	7	sleep_end_timestamp_local	local_date_time					seconds								
+	8	sleep_end_timestamp_utc	date_time					seconds								
+	9	sleep_start_timestamp_local	local_date_time					seconds								
+	10	sleep_start_timestamp_utc	date_time					seconds								
+device_settings_2																415
+	12	nap_alerts	enum													
+	13	find_my_phone_alerts	enum													
+	15	garmin_share	enum													
+	32	map_mode	enum													
+	33	map_theme	enum													
+	36	map_popularity	enum													
+dive_readiness																418
+	1	local_timestamp	local_date_time					seconds								
+	2	dive_readiness	uint8													
+time_zone																423
+	0	zone	uint8													
+	1	region	uint8													
+	2	name	string													
+	3	abbreviation	string													
+	4	favorite	enum													
+subwave_message																424
+	0	direction	enum													
+	2	body	string													
+	3	sender	string													
+	6	receiver	string													
+	7	sender_ant	uint32z													
+workout_schedule																428
+	1	workout_index	uint16													
+	3	est_benefit	enum													
+	5	est_aerobic_te	uint8			10	0									
+	6	est_anaer_te	uint8			10	0									
+	7	sport	enum													
+	8	sub_sport	enum													
+	9	duration	uint32			1000	0	seconds								
+	10	local_timestamp	local_date_time					seconds								
+max_hr																430
+	7	max_hr	uint8					beats per minute								
+	8	max_hr_cycling	uint8					beats per minute								
+hr_minimum																431
+	1	day	uint16													
+	2	local_timestamp	local_date_time					seconds								
+	3	hr_min	uint8					beats per minute								
+evening_report																436
+	0	status	enum													
+	2	alert_time	uint16													
+true_up_body_battery																464
+	1	snapshot_timestamp	date_time					seconds								
+	2	snapshot_local_timestamp	local_date_time					seconds								
+	3	body_battery	uint8					percent								
+record_high_res																467
+	1	latitudes	sint32	[N]				semicircles								
+	2	longitudes	sint32	[N]				semicircles								
+	4	time_offset	uint16					milliseconds								
+metric_summary																493
+	0	start	date_time					seconds								
+	1	end	date_time					seconds								
+	8	hr_min	uint8					beats per minute								
+	10	daily_hr_min	uint8					beats per minute								
+sleep_insight																521
+	0	recording_timestamp	date_time					seconds								
+	1	overall_sleep_score	uint8													
+	3	sleep_start_time	local_date_time					seconds								
+	4	sleep_start_timezone_offset	sint16					minutes								
+	5	sleep_end_time	local_date_time					seconds								
+	6	sleep_end_timezone_offset	sint16					minutes								
+gear_item																526
+	0	UUID	string													
+	1	gear_type	enum													
+	2	name	string													
+	3	brand	string													
+	4	model	string													
+	5	usage_tracking	enum													
+	6	max_use_threshold	uint32													
+	9	sports	uint8	[N]												
+	10	sub_sports	uint8	[N]												
+gear_collection																527
+	0	gear_items	uint16	[N]												
+	1	name	string													
+	2	sports	uint8	[N]												
+	3	sub_sports	uint8	[N]												
